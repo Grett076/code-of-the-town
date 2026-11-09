@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Verken open datasets over Breda op een kaart.">
+    <title>Breda in beeld — Vibe Code Workshop</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <p class="eyebrow">Vibe Code Workshop</p>
+      <h1>Breda in beeld</h1>
+      <p>Verken een dataset, klik op de kaart en bouw hierop verder met AI.</p>
+    </header>
+
+    <main class="app-layout">
+      <aside class="sidebar" aria-label="Dataset kiezen">
+        <label for="dataset-select">Kies een dataset</label>
+        <select id="dataset-select" disabled>
+          <option>Datasets laden…</option>
+        </select>
+        <p id="dataset-summary" class="dataset-summary"></p>
+        <p id="dataset-license" class="dataset-license"></p>
+        <a id="dataset-source" class="source-link" hidden target="_blank" rel="noopener noreferrer">Bekijk bron</a>
+        <p id="status" class="status" role="status" aria-live="polite">Manifest laden…</p>
+        <p class="hint">Grote datasets worden pas geladen nadat je ze kiest. Ze kunnen even duren om te tekenen.</p>
+      </aside>
+
+      <section class="map-panel" aria-label="Kaart met geselecteerde dataset">
+        <div id="map" role="application" aria-label="Interactieve kaart van Breda"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Kaarttegels © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap-bijdragers</a></span>
+      <span>Datasetmomentopname: 9 november 2026</span>
+    </footer>
+  </body>
+</html>

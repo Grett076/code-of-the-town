@@ -1,0 +1,172 @@
+:root {
+  color-scheme: light;
+  font-family: system-ui, sans-serif;
+  color: #17352b;
+  background: #f3f6f2;
+  font-synthesis: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.site-header {
+  padding: 1.25rem 1.5rem 1rem;
+  background: #fff;
+  border-bottom: 1px solid #dce5dc;
+}
+
+.site-header h1,
+.site-header p {
+  margin: 0;
+}
+
+.site-header h1 {
+  margin: 0.15rem 0 0.35rem;
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+}
+
+.site-header > p:last-child {
+  color: #52665c;
+}
+
+.eyebrow {
+  color: #18764d;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.app-layout {
+  display: grid;
+  grid-template-columns: minmax(230px, 300px) 1fr;
+  min-height: calc(100vh - 166px);
+}
+
+.sidebar {
+  padding: 1.25rem;
+  background: #fff;
+  border-right: 1px solid #dce5dc;
+}
+
+.sidebar label {
+  display: block;
+  margin-bottom: 0.45rem;
+  font-weight: 700;
+}
+
+.sidebar select {
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.5rem;
+  border: 1px solid #aebeb2;
+  border-radius: 0.4rem;
+  background: #fff;
+  color: inherit;
+  font: inherit;
+}
+
+.dataset-summary,
+.dataset-license,
+.status,
+.hint {
+  color: #52665c;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.dataset-summary {
+  margin-bottom: 0.35rem;
+}
+
+.dataset-license {
+  overflow-wrap: anywhere;
+}
+
+.source-link {
+  color: #126c48;
+  font-weight: 650;
+}
+
+.status {
+  min-height: 1.5em;
+  margin-top: 1.25rem;
+  color: #17352b;
+}
+
+.hint {
+  padding-top: 0.9rem;
+  border-top: 1px solid #e1e9e2;
+  font-size: 0.85rem;
+}
+
+.map-panel,
+#map {
+  min-height: 520px;
+  height: 100%;
+}
+
+#map {
+  background: #e8eee8;
+}
+
+.feature-properties {
+  display: grid;
+  grid-template-columns: minmax(90px, auto) minmax(120px, 1fr);
+  gap: 0.25rem 0.75rem;
+  max-height: 260px;
+  overflow: auto;
+  margin: 0;
+}
+
+.feature-properties dt {
+  font-weight: 700;
+}
+
+.feature-properties dd {
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.site-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1.5rem;
+  background: #fff;
+  border-top: 1px solid #dce5dc;
+  color: #52665c;
+  font-size: 0.82rem;
+}
+
+.site-footer a {
+  color: inherit;
+}
+
+@media (max-width: 700px) {
+  .app-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    border-right: 0;
+    border-bottom: 1px solid #dce5dc;
+  }
+
+  .map-panel,
+  #map {
+    min-height: 58vh;
+  }
+
+  .site-footer {
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+}

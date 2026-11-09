@@ -1,63 +1,73 @@
 # Breda Vibe Code Workshop
 
-> Open data en projectideeën om inwoners tijdens de Vibe Code-avond zelf kleine apps voor Breda te laten bouwen met hulp van AI.
+> Open data en projectideeën waarmee inwoners tijdens de Vibe Code-avond met hulp van AI eenvoudige apps voor Breda kunnen bouwen.
 
 ## Wat zit erin?
 
-Deze repository is een startpunt en databundel voor de workshop. Er staan open-dataset-snapshots en documentatie in; **er zit nog geen kant-en-klare webapp of startertemplate in**.
+Deze repository bevat een optionele statische starterkaart, workshopideeën en een databundel met 15 datasets over Breda. De starter is bewust eenvoudig gehouden: HTML, CSS en JavaScript, zonder buildstap, backend of database.
 
-- 15 datasets over onder meer bomen, groen, voorzieningen, wijken en weer.
-- Elke dataset is beschikbaar als CSV en JSON. De ruimtelijke JSON-bestanden zijn GeoJSON.
-- Een overzicht van de onderwerpen, databronnen en passende datasets per appidee.
+- `index.html`, `style.css` en `app.js` vormen de webapp.
+- `datasets/` bevat CSV- en JSON-bestanden plus een manifest met broninformatie.
+- `docs/` bevat de workshoponderwerpen, databronnen en datasetkeuzes per onderwerp.
 
 ## Snel naar de juiste informatie
 
-- [Onderwerpen en appideeën](docs/onderwerpen.md)
+- [Start de webapp](#starten)
+- [Workshoponderwerpen](docs/onderwerpen.md)
 - [Datasets per onderwerp](docs/datasets-per-onderwerp.md)
 - [Bronnen en beschikbare bestanden](docs/data-bronnen.md)
-- [Datasetpakket: formaat, actualiteit en beperkingen](datasets/README.md)
+- [Datasetformaat, actualiteit en beperkingen](datasets/README.md)
 - [Machineleesbaar datasetmanifest](datasets/manifest.json)
 
-## Data gebruiken
+## Starten
 
-Kies eerst een appidee in `docs/onderwerpen.md` en bekijk in `docs/datasets-per-onderwerp.md` welke databestanden daarbij passen. Het manifest bevat per dataset bronlinks, aantallen, ophaaldatum en bekende gebruiksvoorwaarden.
+Vereist: een moderne browser en Python 3 om lokaal een eenvoudige webserver te starten. Python wordt hier **niet** als backend gebruikt; de webapp leest de statische bestanden rechtstreeks.
 
-- `.json`: GeoJSON FeatureCollection voor kaartlagen; coördinaten zijn in EPSG:4326.
-- `.csv`: tabulaire variant; de geometrie staat in de kolom `geometry` als GeoJSON-tekst.
-- `datasets/README.md`: aanvullende informatie over herkomst en beperkingen.
-
-De bestanden zijn momentopnamen, geen live feeds. De gemeentelijke gegevens zijn opgehaald op 9 november 2026. De bomen- en hoofdgroenstructuurbestanden zijn groot; laad ze niet automatisch allemaal in een browserapp. De weerhistorie is modeldata, geen lokale sensormeting. Bekijk de licentie- en actualiteitswaarschuwingen voordat je data verder verspreidt of in een app gebruikt.
-
-## Lokaal werken aan een webapp
-
-Voor een statische app met HTML, CSS en JavaScript is geen backend of database nodig. Als je browser met `fetch()` lokale databestanden moet laden, serveer de repository dan via HTTP in plaats van de pagina rechtstreeks als `file://` te openen. Python is hiervoor alleen een lokale webserver; dit start geen backend-app.
+Start vanuit de projectmap:
 
 ```bash
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open daarna `http://localhost:8000`. Op Windows kan dit commando gebruikt worden:
+Open vervolgens <http://localhost:8000>. Op Windows kan dit commando gebruikt worden:
 
 ```powershell
 py -m http.server 8000 --bind 127.0.0.1
 ```
 
-Deze repository bevat nog geen `index.html`; voeg die toe voor een eigen app. Voor kaarttegels of externe databronnen kan internettoegang nodig zijn. Controleer de gebruiksvoorwaarden van de kaart- en databronaanbieders.
+De kaart gebruikt Leaflet en OpenStreetMap-kaarttegels. Daarvoor is internettoegang nodig; de kaartvermelding wordt in de app getoond. De standaardlaag is Watertappunten. Kies een andere laag in het menu; grote datasets worden pas na bevestiging geladen en kunnen even duren.
+
+## De data gebruiken of aanpassen
+
+De webapp leest de lijst met kaartlagen uit `datasets/manifest.json` en laadt alleen de gekozen GeoJSON-laag.
+
+- Ruimtelijke `.json`-bestanden zijn GeoJSON FeatureCollections met coördinaten in EPSG:4326.
+- `.csv`-bestanden zijn bedoeld voor tabulaire tools; geometrie staat in de kolom `geometry` als GeoJSON-tekst.
+- De weerhistorie is gewone JSON/CSV-tijdreeksdata, geen kaartlaag en geen lokale sensormeting.
+- De gemeentelijke gegevens zijn momentopnamen van 9 november 2026, geen live feeds. Er is geen automatische delivery pipeline.
+- Sommige bestanden zijn groot. Laad niet standaard alle datasets in de browser.
+- Controleer de licentie- en actualiteitsnotities in `datasets/README.md` en `datasets/manifest.json` voordat je data verder verspreidt.
+
+Om de starter aan te passen, begin bij `index.html`, `style.css` en `app.js`. De bedoeling is dat deelnemers deze bestanden met AI kunnen aanpassen en uitbreiden. Zie [datasets per onderwerp](docs/datasets-per-onderwerp.md) voor suggesties en beperkingen.
 
 ## Projectstructuur
 
 ```text
 .
-├── datasets/                   # CSV-, GeoJSON- en manifestbestanden
-│   ├── README.md               # Dataformaat, herkomst en beperkingen
-│   └── manifest.json           # Bronnen, aantallen, licenties en ophaaldatum
+├── app.js                         # Datasetkeuze en kaartgedrag
+├── index.html                     # Webapp
+├── style.css                      # Opmaak
+├── datasets/
+│   ├── README.md                  # Dataformaat, herkomst en beperkingen
+│   ├── manifest.json              # Bronnen, aantallen, licenties en ophaaldatum
+│   └── *.csv / *.json             # Datasetbestanden
 ├── docs/
-│   ├── data-bronnen.md         # Catalogus van bronnen en bestanden
-│   ├── datasets-per-onderwerp.md # Welke datasets bij welke appideeën passen
-│   └── onderwerpen.md          # Appideeën voor de workshop
+│   ├── data-bronnen.md             # Catalogus van bronnen en bestanden
+│   ├── datasets-per-onderwerp.md   # Welke datasets bij welke appideeën passen
+│   └── onderwerpen.md              # Workshopideeën
 └── README.md
 ```
 
-## Actualiteit en bijdragen
+## Bijdragen
 
-Er is op dit moment geen delivery pipeline: de datasets worden niet automatisch vernieuwd. Controleer de oorspronkelijke bron en ververs veranderlijke gegevens wanneer actualiteit belangrijk is. Voeg bij nieuwe data altijd bron, ophaaldatum en licentie-informatie toe aan het manifest en de documentatie. Verzin geen ontbrekende waarden of historische context.
+Houd de starter begrijpelijk voor beginners: geen framework of backend toevoegen tenzij een onderwerp dat echt nodig heeft. Werk bij nieuwe of gewijzigde datasets ook het manifest en de broninformatie bij; verzin geen ontbrekende waarden of historische context.
