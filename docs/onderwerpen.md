@@ -7,6 +7,8 @@ Dit zijn de appideeën voor de Vibe Code-avond. Per idee staat in [datasets per 
 - **Breda in 3 minuten** — eenvoudige visuele wijkvergelijker.
 - **Verborgen Breda** — interactieve stadswandeling met plekken die veel inwoners niet kennen.
 - **Breda op de fiets** — fietsgerichte kaart met praktische informatie.
+- **Breda Elektrisch** — kaart met publieke laadpunten voor elektrische voertuigen.
+- **Breda Toegankelijk** — verken toiletten met beschikbare rolstoelstatus, bushaltes met bekende toegankelijkheidsstatus en andere voorzieningen.
 - **Breda Hitteproof** — plekken met groen en voorzieningen voor warme dagen.
 - **Wat staat er om de hoek?** — persoonlijke kaart op basis van postcode of locatie.
 - **Breda Open Data explorer voor mensen** — chatbotachtige portal waarmee inwoners vragen kunnen stellen over data.

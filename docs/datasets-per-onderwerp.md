@@ -8,6 +8,7 @@ Voor een wandel- of fietskaart met groen en voorzieningen:
 
 - [Bomen](../datasets/bomen.json) / [CSV](../datasets/bomen.csv) voor boomlocaties en kenmerken.
 - [Hoofdgroenstructuur](../datasets/hoofdgroenstructuur.json) / [CSV](../datasets/hoofdgroenstructuur.csv) voor groene gebieden.
+- [Parken](../datasets/parken.json) en [speelplekken](../datasets/speelplekken.json) als aanvullende OpenStreetMap-kaartlagen.
 - [Zitbanken](../datasets/zitbanken.json), [watertappunten](../datasets/watertappunten.json) en [hondenuitlaatplaatsen](../datasets/hondenuitlaatplaatsen.json) voor stops en voorzieningen; voor elk is ook een CSV beschikbaar.
 - [Wijkdeals](../datasets/wijkdeals.json), [sportaccommodaties](../datasets/sportaccommodaties.json) en [fietsenstallingen](../datasets/fietsenstallingen.json) als aanvullende kaartlagen.
 - [Vergunningplichtige houtopstanden](../datasets/houtopstanden.json) als extra laag met meerdere typen houtopstanden.
@@ -43,6 +44,21 @@ Er is geen dataset met verborgen plekken, erfgoed of toeristische verhalen aange
 
 De fietsenstallingendataset bevat 9 records en is mogelijk niet volledig. Er zijn geen fietspaden, routes, wegwerkzaamheden of actuele verkeersgegevens in dit pakket; gebruik het niet als fietsrouteplanner zonder aanvullende bronnen.
 
+## Breda Elektrisch
+
+- [Oplaadpunten elektrische voertuigen](../datasets/oplaadpunten.json) voor publieke laadpunten in de openbare ruimte.
+
+De status in deze bron is geen live informatie over bezetting of werking en de gegevens worden onregelmatig bijgewerkt.
+
+## Breda Toegankelijk
+
+- [Toiletten](../datasets/toiletten.json) met rolstoelstatus of openingstijden wanneer die in OpenStreetMap zijn vastgelegd.
+- [Bushaltes met rolstoelstatus](../datasets/rolstoelhaltes.json); dit bevat alleen haltes met een expliciet vastgelegde status.
+- [Parkeerlocaties en -plaatsen](../datasets/parkeerplaatsen.json) als algemene OSM-parkeerlaag.
+- [Parkeervoorzieningen Breda](../datasets/parkeervoorzieningen.json) voor 9 locaties uit de CC0-parkeerfeed.
+
+Er is in de gecontroleerde openbare bronnen geen aparte Bredase dataset gevonden die gehandicaptenparkeerplaatsen betrouwbaar aanwijst. De OSM-service geeft daarvoor geen bruikbare status; leid die niet af uit een gewone parkeerlocatie. OSM-dekking kan onvolledig zijn en een ontbrekende toegankelijkheidsstatus betekent niet dat iets ontoegankelijk is.
+
 ## Breda Hitteproof
 
 - [Bomen](../datasets/bomen.json) en [hoofdgroenstructuur](../datasets/hoofdgroenstructuur.json) voor groen in de omgeving.
@@ -56,7 +72,7 @@ De weerdata is ERA5-Land-reanalyse, geen lokale sensormeting of actuele weersver
 
 Gebruik de browserlocatie of een aparte geocoder om een middelpunt te bepalen. Zoek daarna nabijgelegen locaties in bijvoorbeeld:
 
-- [Bomen](../datasets/bomen.json), [zitbanken](../datasets/zitbanken.json), [watertappunten](../datasets/watertappunten.json), [hondenuitlaatplaatsen](../datasets/hondenuitlaatplaatsen.json) en [sportaccommodaties](../datasets/sportaccommodaties.json).
+- [Bomen](../datasets/bomen.json), [zitbanken](../datasets/zitbanken.json), [watertappunten](../datasets/watertappunten.json), [hondenuitlaatplaatsen](../datasets/hondenuitlaatplaatsen.json), [parken](../datasets/parken.json), [speelplekken](../datasets/speelplekken.json) en [toiletten](../datasets/toiletten.json).
 - Voeg [fietsenstallingen](../datasets/fietsenstallingen.json), [bladkorven](../datasets/bladkorven.json), [wijkdeals](../datasets/wijkdeals.json) en [containerverzamelplaatsen](../datasets/containerverzamelplaatsen.json) toe als de gebruiker die voorzieningen zoekt.
 - Gebruik [wijken](../datasets/wijken.json) en [buurten](../datasets/buurten.json) om de gevonden plek in een gebied te plaatsen.
 
@@ -70,4 +86,5 @@ Alle datasets kunnen als doorzoekbare bronnen dienen. Begin met het [manifest](.
 
 - De gemeentelijke gegevens zijn opgehaald op 9 november 2026 en worden niet automatisch bijgewerkt. Zie [bronnen en bestanden](data-bronnen.md) en het [datasetpakket](../datasets/README.md) voor herkomst, licentie en actualiteit.
 - Voor `groene_daken_gevels` en `containerverzamelplaatsen` vermeldt de bron geen specifieke hergebruiklicentie. Controleer de bronvoorwaarden voordat je deze datasets verder verspreidt.
+- De OSM-kaartlagen vallen onder ODbL 1.0; vermeld `© OpenStreetMap contributors, powered by Esri Nederland`. Zie [de datasetnotice](../datasets/NOTICE.md).
 - Er is geen 90 dagen historie voor de gemeentelijke kaartlagen gepubliceerd. De weerhistorie is modeldata en loopt achter op de kalenderdatum.

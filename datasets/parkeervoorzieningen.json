@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "name": "Parkeervoorzieningen Breda",
+  "source": "https://www.arcgis.com/home/item.html?id=1cba3256dba04edbb7478fa919ca866d",
+  "source_service": "https://opendata.technolution.nl/opendata/parkingdata/v1/",
+  "license": "CC0",
+  "retrieved_at": "2026-11-09T12:59:16Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.767358303070068,
+          51.58436325947214
+        ]
+      },
+      "properties": {
+        "identifier": "cce998a7-2746-40cd-9c53-c34e7096873a",
+        "name": "P11 - Gasthuisvelden / Arsenaalpad",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/cce998a7-2746-40cd-9c53-c34e7096873a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.783709055555556,
+          51.586389833333335
+        ]
+      },
+      "properties": {
+        "identifier": "4498b82f-6da9-4887-b2a1-be921341d1d0",
+        "name": "P1 - Chasséparking",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/4498b82f-6da9-4887-b2a1-be921341d1d0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.786058664321899,
+          51.5882829848258
+        ]
+      },
+      "properties": {
+        "identifier": "969fae57-8be5-47ed-99e9-bc4978823571",
+        "name": "P3 - Chasséveld",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/969fae57-8be5-47ed-99e9-bc4978823571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.782078266143799,
+          51.588736264582444
+        ]
+      },
+      "properties": {
+        "identifier": "02d02aed-629a-4c88-b1ac-9931be4dbc51",
+        "name": "P5 - Beyerd-Vlaszak",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/02d02aed-629a-4c88-b1ac-9931be4dbc51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.775340557098389,
+          51.58452325488173
+        ]
+      },
+      "properties": {
+        "identifier": "c22bc535-e3cb-41e6-a4aa-0870f94ee478",
+        "name": "P10 - Concordiastraat",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/c22bc535-e3cb-41e6-a4aa-0870f94ee478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7725725173950195,
+          51.58757639265605
+        ]
+      },
+      "properties": {
+        "identifier": "c724ecc9-e6ae-42aa-b462-8ce7cf48912a",
+        "name": "P8 - De Barones",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/c724ecc9-e6ae-42aa-b462-8ce7cf48912a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7833013611111115,
+          51.58620316666667
+        ]
+      },
+      "properties": {
+        "identifier": "e3736bac-8efe-4d71-b06b-ba2a54cfd815",
+        "name": "P2 - Holland casino",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/e3736bac-8efe-4d71-b06b-ba2a54cfd815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78503942489624,
+          51.58978945596664
+        ]
+      },
+      "properties": {
+        "identifier": "6ea457a0-c73c-4b1a-8602-ff6af1114fe3",
+        "name": "P4 - Het Turfschip",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/6ea457a0-c73c-4b1a-8602-ff6af1114fe3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7705769538879395,
+          51.591495840811106
+        ]
+      },
+      "properties": {
+        "identifier": "07f8962e-d251-4055-b9a8-0752024b355e",
+        "name": "P7 - De Prins",
+        "limitedAccess": false,
+        "staticDataUrl": "https://opendata.technolution.nl/opendata/parkingdata/v1/static/07f8962e-d251-4055-b9a8-0752024b355e"
+      }
+    }
+  ]
+}

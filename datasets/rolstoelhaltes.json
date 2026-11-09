@@ -1,0 +1,2541 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bushaltes met rolstoelstatus (OpenStreetMap)",
+  "source": "https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341",
+  "source_service": "https://services.arcgis.com/nSZVuSZjHpEZZbRo/arcgis/rest/services/OSM_POI/FeatureServer",
+  "license": "ODbL 1.0; © OpenStreetMap contributors, powered by Esri Nederland",
+  "retrieved_at": "2026-11-09T12:55:18Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82237370001012,
+          51.6106990992386
+        ]
+      },
+      "properties": {
+        "osm_id": "617178282",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Donkerstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8215064996725,
+          51.609965099397
+        ]
+      },
+      "properties": {
+        "osm_id": "3870777293",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Donkerstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78415699986459,
+          51.5728387992092
+        ]
+      },
+      "properties": {
+        "osm_id": "5226746405",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Prins Hendrikstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80724619998293,
+          51.5773012989614
+        ]
+      },
+      "properties": {
+        "osm_id": "5225355758",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Loevesteinstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80748250002179,
+          51.577587199174
+        ]
+      },
+      "properties": {
+        "osm_id": "3871149813",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Loevesteinstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81215740013401,
+          51.5716946990311
+        ]
+      },
+      "properties": {
+        "osm_id": "616821352",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Schaffelaarstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81247399967778,
+          51.5717969991542
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442442",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Schaffelaarstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81128239972476,
+          51.5685944992434
+        ]
+      },
+      "properties": {
+        "osm_id": "616821335",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Rijnauwenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79263299982898,
+          51.5701249994416
+        ]
+      },
+      "properties": {
+        "osm_id": "3870777300",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Valkeniersplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81119490022281,
+          51.5687491993889
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442441",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Rijnauwenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78840809997856,
+          51.572282999202
+        ]
+      },
+      "properties": {
+        "osm_id": "616821316",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "van Duijvenvoordestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80946569989477,
+          51.5742628993521
+        ]
+      },
+      "properties": {
+        "osm_id": "616821354",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Zorgvlietstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80478350007256,
+          51.5731886993756
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442426",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Groot IJpelaardreef",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80886889964419,
+          51.5746278989008
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442448",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Zorgvlietstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78844539982577,
+          51.5721843990975
+        ]
+      },
+      "properties": {
+        "osm_id": "6879870231",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "van Duijvenvoordestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80476199979456,
+          51.5728011991186
+        ]
+      },
+      "properties": {
+        "osm_id": "616821351",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Groot IJpelaardreef",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80051089968056,
+          51.5754138989839
+        ]
+      },
+      "properties": {
+        "osm_id": "616821348",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Blauwe Kei",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80043120025025,
+          51.5755662992304
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442422",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Blauwe Kei",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7950010002404,
+          51.5843119994266
+        ]
+      },
+      "properties": {
+        "osm_id": "616821357",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hogeschoollaan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79540029958756,
+          51.5841943992717
+        ]
+      },
+      "properties": {
+        "osm_id": "3870777359",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hogeschoollaan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.789262800259,
+          51.5855099993674
+        ]
+      },
+      "properties": {
+        "osm_id": "3871149814",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Lovensdijkstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79162500024866,
+          51.5864969994253
+        ]
+      },
+      "properties": {
+        "osm_id": "616821356",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Lovensdijkstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79804599979607,
+          51.5790310994073
+        ]
+      },
+      "properties": {
+        "osm_id": "1710003373",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Poolseweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79786680026991,
+          51.5788168989451
+        ]
+      },
+      "properties": {
+        "osm_id": "3871442439",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Poolseweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81378810019116,
+          51.5863817994058
+        ]
+      },
+      "properties": {
+        "osm_id": "616821373",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Wilderen",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81375900016585,
+          51.5862986991507
+        ]
+      },
+      "properties": {
+        "osm_id": "3867924603",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Wilderen",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79865289980538,
+          51.5824930989814
+        ]
+      },
+      "properties": {
+        "osm_id": "616821358",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Amphia Ziekenhuis Molengracht",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78527140039872,
+          51.5873084989455
+        ]
+      },
+      "properties": {
+        "osm_id": "616821327",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Claudius Prinsenlaan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78373340019065,
+          51.5877666992337
+        ]
+      },
+      "properties": {
+        "osm_id": "1401651657",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Claudius Prinsenlaan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77238120040072,
+          51.5896948994394
+        ]
+      },
+      "properties": {
+        "osm_id": "3887318437",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Prinsenkade",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77150819964131,
+          51.5887381991408
+        ]
+      },
+      "properties": {
+        "osm_id": "3867924602",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Tolbrug",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77163999956148,
+          51.5875889992775
+        ]
+      },
+      "properties": {
+        "osm_id": "616821323",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Tolbrug",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77408999998868,
+          51.5827232990756
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562330",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Markendaalseweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77381200015433,
+          51.5827501992261
+        ]
+      },
+      "properties": {
+        "osm_id": "616821321",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Markendaalseweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77487099978826,
+          51.5860711991176
+        ]
+      },
+      "properties": {
+        "osm_id": "1710002843",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Centrum",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77568740039659,
+          51.5861246990574
+        ]
+      },
+      "properties": {
+        "osm_id": "5787600177",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Centrum",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77902799957961,
+          51.5854259994294
+        ]
+      },
+      "properties": {
+        "osm_id": "3870776778",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Keizerstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78475009995449,
+          51.5919670993107
+        ]
+      },
+      "properties": {
+        "osm_id": "3093773765",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Sophiastraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78089019997708,
+          51.58832959908
+        ]
+      },
+      "properties": {
+        "osm_id": "616821329",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vlaszak",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77117990043927,
+          51.5915741989048
+        ]
+      },
+      "properties": {
+        "osm_id": "616821324",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Nieuwe Prinsenkade",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77116009977375,
+          51.5918435993436
+        ]
+      },
+      "properties": {
+        "osm_id": "3867924599",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Nieuwe Prinsenkade",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77536420003208,
+          51.5859680989059
+        ]
+      },
+      "properties": {
+        "osm_id": "1710002829",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Centrum",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77577029962593,
+          51.5860005993731
+        ]
+      },
+      "properties": {
+        "osm_id": "5787600168",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Centrum",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78583170030267,
+          51.5915525991398
+        ]
+      },
+      "properties": {
+        "osm_id": "616821382",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Sophiastraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78067790022768,
+          51.5891524989535
+        ]
+      },
+      "properties": {
+        "osm_id": "2625425665",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vlaszak",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77922229978567,
+          51.5858948990927
+        ]
+      },
+      "properties": {
+        "osm_id": "616821326",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Keizerstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76407009968146,
+          51.5791953992974
+        ]
+      },
+      "properties": {
+        "osm_id": "617399578",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Jacob Catssingel",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76405240017541,
+          51.5790415994204
+        ]
+      },
+      "properties": {
+        "osm_id": "3878877554",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Jacob Catssingel",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70999839977423,
+          51.6003050990746
+        ]
+      },
+      "properties": {
+        "osm_id": "617380961",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Molenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70982580017048,
+          51.6002788989849
+        ]
+      },
+      "properties": {
+        "osm_id": "5215034500",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Molenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71910689993692,
+          51.6049244990865
+        ]
+      },
+      "properties": {
+        "osm_id": "956012439",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Velsgoed",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7187331001674,
+          51.6047742990124
+        ]
+      },
+      "properties": {
+        "osm_id": "6942588238",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Velsgoed",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71155019990167,
+          51.5973437989884
+        ]
+      },
+      "properties": {
+        "osm_id": "617380958",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vaandelstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71113780042271,
+          51.5972901989823
+        ]
+      },
+      "properties": {
+        "osm_id": "3880074496",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vaandelstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "limited",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75413790009879,
+          51.5944716989622
+        ]
+      },
+      "properties": {
+        "osm_id": "616821377",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Lunetstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75521499988738,
+          51.593463199074
+        ]
+      },
+      "properties": {
+        "osm_id": "3869462449",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Lunetstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75111330038495,
+          51.595687798888
+        ]
+      },
+      "properties": {
+        "osm_id": "2251199924",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Stadion NAC",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74993449962807,
+          51.5966386988921
+        ]
+      },
+      "properties": {
+        "osm_id": "616821376",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Stadion NAC",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69880010025706,
+          51.5745705990412
+        ]
+      },
+      "properties": {
+        "osm_id": "441189986",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Liesbos",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69505010017149,
+          51.5739466990376
+        ]
+      },
+      "properties": {
+        "osm_id": "441191570",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Liesbos",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75977699973469,
+          51.5897909991678
+        ]
+      },
+      "properties": {
+        "osm_id": "616821311",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Dijkplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75971670032123,
+          51.5894953992212
+        ]
+      },
+      "properties": {
+        "osm_id": "3867924790",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Dijkplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73520680020798,
+          51.5811574993421
+        ]
+      },
+      "properties": {
+        "osm_id": "441194929",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Woonboulevard",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73136109990026,
+          51.5549915993056
+        ]
+      },
+      "properties": {
+        "osm_id": "617399570",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Effen",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73173470024379,
+          51.5551190991496
+        ]
+      },
+      "properties": {
+        "osm_id": "3878877552",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Effen",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72334360005688,
+          51.5785769990123
+        ]
+      },
+      "properties": {
+        "osm_id": "441193833",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Princeville",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7495484001257,
+          51.575418399348
+        ]
+      },
+      "properties": {
+        "osm_id": "616821304",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Doctor Struyckenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74915840013836,
+          51.5754193992427
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562228",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Doctor Struyckenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75568870040133,
+          51.577274398935
+        ]
+      },
+      "properties": {
+        "osm_id": "616835997",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Dr. Struyckenplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7548703001432,
+          51.576857799037
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562227",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Dr. Struyckenplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74554439959693,
+          51.5741675992103
+        ]
+      },
+      "properties": {
+        "osm_id": "616821270",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Heuvelplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74414070021879,
+          51.5740395989292
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562326",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Heuvelplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73686780043969,
+          51.5812398989481
+        ]
+      },
+      "properties": {
+        "osm_id": "441194968",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Woonboulevard",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73668940041415,
+          51.5810131991926
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562339",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Woonboulevard",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72182559994032,
+          51.578686999198
+        ]
+      },
+      "properties": {
+        "osm_id": "441193891",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Princeville",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7429732002682,
+          51.5699069992679
+        ]
+      },
+      "properties": {
+        "osm_id": "617399575",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Rithsestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7430869997467,
+          51.5700239993144
+        ]
+      },
+      "properties": {
+        "osm_id": "3878874994",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Rithsestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79514190009441,
+          51.5426879992795
+        ]
+      },
+      "properties": {
+        "osm_id": "2625425660",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vlasaard",
+        "operator": "Arriva",
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81485860005736,
+          51.5669995990372
+        ]
+      },
+      "properties": {
+        "osm_id": "616821336",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Nieuw Wolfslaarlaan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78728069992394,
+          51.597935399259
+        ]
+      },
+      "properties": {
+        "osm_id": "616821385",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Edisonstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78702860031586,
+          51.5988880991868
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562321",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Edisonstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78518929977163,
+          51.603212298926
+        ]
+      },
+      "properties": {
+        "osm_id": "616821387",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Biesdonkweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79652299965663,
+          51.6059829990845
+        ]
+      },
+      "properties": {
+        "osm_id": "616821403",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hendrik Berlagestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79698709987511,
+          51.6089255992476
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562334",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Tilman Suysstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7853560001389,
+          51.6033459990284
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562221",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Biesdonkweg",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78416679958599,
+          51.6060383992564
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562220",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Belgiëplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78406499980305,
+          51.6059639993523
+        ]
+      },
+      "properties": {
+        "osm_id": "616821386",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Belgiëplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78381230012038,
+          51.6088507990556
+        ]
+      },
+      "properties": {
+        "osm_id": "616821390",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Brusselstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78778070041445,
+          51.6103094993937
+        ]
+      },
+      "properties": {
+        "osm_id": "616821393",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Stabroekstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78747880000365,
+          51.6097379990509
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562332",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Stabroekstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78482899988423,
+          51.6125659992767
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562333",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Steendorpstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78398780038419,
+          51.6127169991628
+        ]
+      },
+      "properties": {
+        "osm_id": "616821392",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Steendorpstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79435299961189,
+          51.6095939994331
+        ]
+      },
+      "properties": {
+        "osm_id": "616821405",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Cornelis Florisstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79464649987646,
+          51.6095117990862
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562226",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Cornelis Florisstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79717899978273,
+          51.6092290994275
+        ]
+      },
+      "properties": {
+        "osm_id": "616821406",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Tilman Suysstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77986639992922,
+          51.611948599306
+        ]
+      },
+      "properties": {
+        "osm_id": "616821391",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vlaanderenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78019699971672,
+          51.6123709991535
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562337",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Vlaanderenstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77869839961705,
+          51.6096045989363
+        ]
+      },
+      "properties": {
+        "osm_id": "616821388",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hamdijk",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7781743000224,
+          51.5962217993982
+        ]
+      },
+      "properties": {
+        "osm_id": "4889708821",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Flixbus Breda",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77243540025339,
+          51.6165307992711
+        ]
+      },
+      "properties": {
+        "osm_id": "617381020",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Regenbeemd",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79142289997097,
+          51.6087341991012
+        ]
+      },
+      "properties": {
+        "osm_id": "616821404",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Groenedijkplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79115219984663,
+          51.6084982992603
+        ]
+      },
+      "properties": {
+        "osm_id": "1751772012",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Groenedijkplein",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77746759987995,
+          51.6044559989253
+        ]
+      },
+      "properties": {
+        "osm_id": "617381016",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Oude Baan",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77563710013058,
+          51.608663199431
+        ]
+      },
+      "properties": {
+        "osm_id": "617381017",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Groenedijk",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79642059979907,
+          51.6060905991792
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562324",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hendrik Berlagestraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8015834000949,
+          51.6082394992395
+        ]
+      },
+      "properties": {
+        "osm_id": "2066869847",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Waterdonken",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80179349987019,
+          51.6081313993501
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562338",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Waterdonken",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78045060040964,
+          51.596020799385
+        ]
+      },
+      "properties": {
+        "osm_id": "6883624582",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Centraal Station",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78354680034321,
+          51.6089583990483
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562224",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Brusselstraat",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77884829969187,
+          51.6096646991883
+        ]
+      },
+      "properties": {
+        "osm_id": "3870562323",
+        "osm_type": "node",
+        "service": "Verkeer en vervoer",
+        "tag": "highway",
+        "value": "bus_stop",
+        "name": "Hamdijk",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    }
+  ]
+}

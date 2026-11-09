@@ -1,0 +1,611 @@
+{
+  "type": "FeatureCollection",
+  "name": "Toiletten (OpenStreetMap)",
+  "source": "https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341",
+  "source_service": "https://services.arcgis.com/nSZVuSZjHpEZZbRo/arcgis/rest/services/OSM_POI/FeatureServer",
+  "license": "ODbL 1.0; © OpenStreetMap contributors, powered by Esri Nederland",
+  "retrieved_at": "2026-11-09T12:55:18Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.83294850044811,
+              51.6104895990717
+            ],
+            [
+              4.8329614999686,
+              51.6105164989596
+            ],
+            [
+              4.83300259968947,
+              51.6105086989979
+            ],
+            [
+              4.832989799595,
+              51.6104817991054
+            ],
+            [
+              4.83294850044811,
+              51.6104895990717
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "1193838859",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76626960040011,
+          51.5603675991858
+        ]
+      },
+      "properties": {
+        "osm_id": "5894506537",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75094870027879,
+          51.5222657993198
+        ]
+      },
+      "properties": {
+        "osm_id": "5730750719",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77542510041847,
+          51.5867765988916
+        ]
+      },
+      "properties": {
+        "osm_id": "1402325754",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78092930004815,
+          51.5895974991013
+        ]
+      },
+      "properties": {
+        "osm_id": "7777605186",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": "Stedelijk Museum Breda",
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77899060001938,
+          51.5902930990415
+        ]
+      },
+      "properties": {
+        "osm_id": "5803790853",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77742370011033,
+          51.5906712989836
+        ]
+      },
+      "properties": {
+        "osm_id": "8770348260",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77246100044234,
+          51.5908349992469
+        ]
+      },
+      "properties": {
+        "osm_id": "12003201517",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77341980019287,
+          51.5900051992486
+        ]
+      },
+      "properties": {
+        "osm_id": "8770404334",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77259480001236,
+          51.5899255993917
+        ]
+      },
+      "properties": {
+        "osm_id": "10302163555",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "no",
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77486330032797,
+          51.5869716989004
+        ]
+      },
+      "properties": {
+        "osm_id": "5694580873",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.78030890015672,
+              51.5924223991529
+            ],
+            [
+              4.78031719969164,
+              51.5924407990352
+            ],
+            [
+              4.78036860039386,
+              51.592431999238
+            ],
+            [
+              4.78036330033368,
+              51.5924222992567
+            ],
+            [
+              4.78036039967366,
+              51.5924135993522
+            ],
+            [
+              4.78030890015672,
+              51.5924223991529
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "596718196",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7227601999754,
+              51.6044460989825
+            ],
+            [
+              4.72282770028417,
+              51.6044644990154
+            ],
+            [
+              4.72285599991056,
+              51.604424698941
+            ],
+            [
+              4.7227884996018,
+              51.6044061990222
+            ],
+            [
+              4.7227601999754,
+              51.6044460989825
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "842757680",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74149639958552,
+          51.4996562992586
+        ]
+      },
+      "properties": {
+        "osm_id": "11705321973",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": "2theloo",
+        "operator": null,
+        "opening_hours": null,
+        "website": "https://2theloo.com/",
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74237230010667,
+          51.4975593992553
+        ]
+      },
+      "properties": {
+        "osm_id": "11705321974",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": "2theloo",
+        "operator": null,
+        "opening_hours": null,
+        "website": "https://2theloo.com/",
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.69387999959817,
+              51.5662875990749
+            ],
+            [
+              4.69405309956353,
+              51.5662964994224
+            ],
+            [
+              4.69406100024647,
+              51.5662369990109
+            ],
+            [
+              4.69388769995679,
+              51.5662280992101
+            ],
+            [
+              4.69387999959817,
+              51.5662875990749
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "54795428",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.76111249991476,
+              51.5843122991689
+            ],
+            [
+              4.76113340011816,
+              51.5843221990355
+            ],
+            [
+              4.76114189997736,
+              51.584317798909
+            ],
+            [
+              4.76114879993707,
+              51.584312399083
+            ],
+            [
+              4.76115379995995,
+              51.5843062992994
+            ],
+            [
+              4.76115680033299,
+              51.5842996993862
+            ],
+            [
+              4.7611575998336,
+              51.5842927991715
+            ],
+            [
+              4.76113250000624,
+              51.5842880992997
+            ],
+            [
+              4.76111249991476,
+              51.5843122991689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "1196377751",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.81466499963891,
+              51.5670723993273
+            ],
+            [
+              4.814685500092,
+              51.567082398993
+            ],
+            [
+              4.81470779987061,
+              51.5670644992102
+            ],
+            [
+              4.81468730031585,
+              51.5670544989823
+            ],
+            [
+              4.81466499963891,
+              51.5670723993273
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": "1386128213",
+        "osm_type": "way",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": null,
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Vlakken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78932969959485,
+          51.6069947993498
+        ]
+      },
+      "properties": {
+        "osm_id": "6074436757",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": "Winkelcentrum Hoge Vucht",
+        "opening_hours": null,
+        "website": null,
+        "wheelchair": null,
+        "source_layer": "Punten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77925609979656,
+          51.5957259989098
+        ]
+      },
+      "properties": {
+        "osm_id": "3450728670",
+        "osm_type": "node",
+        "service": "Voorzieningen en Faciliteiten",
+        "tag": "amenity",
+        "value": "toilets",
+        "name": null,
+        "operator": "SANIFAIR GmbH",
+        "opening_hours": "07:00-21:00",
+        "website": null,
+        "wheelchair": "yes",
+        "source_layer": "Punten"
+      }
+    }
+  ]
+}
