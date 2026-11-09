@@ -1,6 +1,6 @@
 # Datasetpakket Breda Vibe Code Workshop
 
-Snapshots ter voorbereiding op de Vibe Code-avond van 26 november. Elk ruimtelijk bestand bestaat uit een GeoJSON FeatureCollection (`.json`) en een CSV (`.csv`). In CSV staat de geometrie in de kolom `geometry` als GeoJSON-object in EPSG:4326; `source_layer` bewaart de bronlaag. De weerbestanden bevatten records per uur.
+Snapshots ter voorbereiding op de Vibe Code-avond van 26 november. Zie ook de [Notice voor tijdelijke datasetkopieën](NOTICE.md). Elk ruimtelijk bestand bestaat uit een GeoJSON FeatureCollection (`.json`) en een CSV (`.csv`). In CSV staat de geometrie in de kolom `geometry` als GeoJSON-object in EPSG:4326; `source_layer` bewaart de bronlaag. De weerbestanden bevatten records per uur.
 
 ## Datasets en ideeën
 

@@ -17,7 +17,9 @@ Deze repository bevat een optionele statische starterkaart, workshopideeën en e
 - [Datasets per onderwerp](docs/datasets-per-onderwerp.md)
 - [Bronnen en beschikbare bestanden](docs/data-bronnen.md)
 - [Datasetformaat, actualiteit en beperkingen](datasets/README.md)
-- [Machineleesbaar datasetmanifest](datasets/manifest.json)
+- [Notice voor tijdelijke datasetkopieën](datasets/NOTICE.md)
+- [Datasetlicenties en bronnen](datasets/manifest.json)
+- [Licentie van de eigen appcode](LICENSE)
 
 ## Starten
 
@@ -35,7 +37,7 @@ Open vervolgens <http://localhost:8000>. Op Windows kan dit commando gebruikt wo
 py -m http.server 8000 --bind 127.0.0.1
 ```
 
-De kaart gebruikt Leaflet en OpenStreetMap-kaarttegels. Daarvoor is internettoegang nodig; de kaartvermelding wordt in de app getoond. De standaardlaag is Watertappunten. Kies een andere laag in het menu; grote datasets worden pas na bevestiging geladen en kunnen even duren.
+De kaart laadt [Leaflet 1.9.4](https://github.com/Leaflet/Leaflet/blob/v1.9.4/LICENSE) (BSD-2-Clause) van unpkg en gebruikt OpenStreetMap-kaarttegels. Daarvoor is internettoegang nodig; de kaartvermelding wordt in de app getoond. Leaflet en de kaarttegels vallen niet onder de appcode-licentie; gebruik ze volgens hun eigen licenties en voorwaarden. De standaardlaag is Watertappunten. Kies een andere laag in het menu; grote datasets worden pas na bevestiging geladen en kunnen even duren.
 
 ## De data gebruiken of aanpassen
 
@@ -54,10 +56,12 @@ Om de starter aan te passen, begin bij `index.html`, `style.css` en `app.js`. De
 
 ```text
 .
+├── LICENSE                        # 0BSD voor alleen de eigen appbestanden
 ├── app.js                         # Datasetkeuze en kaartgedrag
 ├── index.html                     # Webapp
 ├── style.css                      # Opmaak
 ├── datasets/
+│   ├── NOTICE.md                  # Tijdelijke snapshots en bronvoorwaarden
 │   ├── README.md                  # Dataformaat, herkomst en beperkingen
 │   ├── manifest.json              # Bronnen, aantallen, licenties en ophaaldatum
 │   └── *.csv / *.json             # Datasetbestanden
@@ -67,6 +71,10 @@ Om de starter aan te passen, begin bij `index.html`, `style.css` en `app.js`. De
 │   └── onderwerpen.md              # Workshopideeën
 └── README.md
 ```
+
+## Licenties
+
+`LICENSE` past 0BSD toe op alleen de eigen appbestanden `app.js`, `index.html` en `style.css`. De datasets volgen de voorwaarden van hun oorspronkelijke bronnen; zie [`datasets/NOTICE.md`](datasets/NOTICE.md) en [`datasets/manifest.json`](datasets/manifest.json). De documentatie en externe componenten vallen niet onder de appcode-licentie.
 
 ## Bijdragen
 
