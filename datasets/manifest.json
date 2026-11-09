@@ -1,0 +1,286 @@
+{
+  "prepared_at": "2026-11-09T08:46:49Z",
+  "datasets": [
+    {
+      "slug": "bomen",
+      "title": "Bomen",
+      "source": "https://data.breda.nl/datasets/2562b6a480ca4b1e97b91c29705fbdeb",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Bomen/FeatureServer",
+      "license": "CC0",
+      "records": 117092,
+      "files": [
+        "bomen.json",
+        "bomen.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Bredase Bomenkaart",
+        "Breda Buiten",
+        "Breda Hitteproof",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "houtopstanden",
+      "title": "Vergunningplichtige houtopstanden",
+      "source": "https://data.breda.nl/datasets/2e27d5ee971945068f1505156d9226b1",
+      "source_service": "https://geo.breda.nl/server1/rest/services/Kapvergunningplicht/MapServer",
+      "license": "Openbaar (vrij gebruik, geen gebruiksbeperkingen)",
+      "records": 13944,
+      "files": [
+        "houtopstanden.json",
+        "houtopstanden.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Bredase Bomenkaart",
+        "Breda Buiten",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "hoofdgroenstructuur",
+      "title": "Hoofdgroenstructuur",
+      "source": "https://data.breda.nl/datasets/1c56b0dd87e6468a9f5cf141162ca458",
+      "source_service": "https://geo.breda.nl/server1/rest/services/Hoofdgroenstructuur/MapServer",
+      "license": "Openbaar (vrij gebruik, geen gebruiksbeperkingen)",
+      "records": 26041,
+      "files": [
+        "hoofdgroenstructuur.json",
+        "hoofdgroenstructuur.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Breda Hitteproof",
+        "Breda in 3 minuten",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "zitbanken",
+      "title": "Zitbanken",
+      "source": "https://data.breda.nl/datasets/b22f8e22b28047b0ae1a11b73cbd7adb",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Zitbanken/FeatureServer",
+      "license": "CC0",
+      "records": 2858,
+      "files": [
+        "zitbanken.json",
+        "zitbanken.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Verborgen Breda",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "wijkdeals",
+      "title": "Wijkdeals",
+      "source": "https://data.breda.nl/datasets/4500ec41423145e889d00d0fd1455361",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Wijkdeals/FeatureServer",
+      "license": "CC0",
+      "records": 1805,
+      "files": [
+        "wijkdeals.json",
+        "wijkdeals.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Breda in 3 minuten",
+        "Verborgen Breda",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "hondenuitlaatplaatsen",
+      "title": "Hondenuitlaatplaatsen",
+      "source": "https://data.breda.nl/datasets/a50b715a128b402099df16da61da6758",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Hondenuitlaatplaatsen/FeatureServer",
+      "license": "CC0",
+      "records": 121,
+      "files": [
+        "hondenuitlaatplaatsen.json",
+        "hondenuitlaatplaatsen.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "watertappunten",
+      "title": "Watertappunten",
+      "source": "https://data.breda.nl/datasets/cf3959edf8fc4c02808e2dd40fe4ab35",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Watertappunten/FeatureServer",
+      "license": "CC0",
+      "records": 64,
+      "files": [
+        "watertappunten.json",
+        "watertappunten.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Breda Hitteproof",
+        "Breda op de fiets",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "bladkorven",
+      "title": "Bladkorven",
+      "source": "https://data.breda.nl/datasets/8e6fb244dad347419e052a8c0b5e36c9",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Bladkorven/FeatureServer",
+      "license": "CC0",
+      "records": 266,
+      "files": [
+        "bladkorven.json",
+        "bladkorven.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "groene_daken_gevels",
+      "title": "Groene daken en groene gevels (NRK bouwwerken)",
+      "source": "https://data.breda.nl/datasets/7e1ac72a650f4b7181dce9a8c8695e0f",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/NEV_NRK_Bouwwerken_/FeatureServer",
+      "license": "Openbaar volgens bronmetadata; geen specifieke hergebruiklicentie vermeld",
+      "records": 1588,
+      "files": [
+        "groene_daken_gevels.json",
+        "groene_daken_gevels.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Hitteproof",
+        "Breda Buiten",
+        "Open Data explorer"
+      ],
+      "notes": "NRK-gebouwclassificaties/criteria; geen bevestigde inventaris van daadwerkelijk aanwezige groene daken of gevels."
+    },
+    {
+      "slug": "sportaccommodaties",
+      "title": "Sportaccommodaties",
+      "source": "https://data.breda.nl/datasets/7c2bf3f457d94efab9e914daaf0d5b46",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Sportaccomodaties/FeatureServer",
+      "license": "CC0",
+      "records": 337,
+      "files": [
+        "sportaccommodaties.json",
+        "sportaccommodaties.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Buiten",
+        "Breda in 3 minuten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "fietsenstallingen",
+      "title": "Fietsenstallingen",
+      "source": "https://data.breda.nl/datasets/efd133b6f32044b48b79ee9330de7652",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Fietsenstallingen/FeatureServer",
+      "license": "CC0",
+      "records": 9,
+      "files": [
+        "fietsenstallingen.json",
+        "fietsenstallingen.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda op de fiets",
+        "Breda Buiten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "containerverzamelplaatsen",
+      "title": "Containerverzamelplaatsen",
+      "source": "https://data.breda.nl/datasets/7b03f58030824dd7b524d19148eef5c0",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Containerverzamelplaatsen/FeatureServer",
+      "license": "Geen specifieke hergebruiklicentie vermeld",
+      "records": 5056,
+      "files": [
+        "containerverzamelplaatsen.json",
+        "containerverzamelplaatsen.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda in 3 minuten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "wijken",
+      "title": "Wijken",
+      "source": "https://data.breda.nl/datasets/748351cf42534b819f5807457d70b2d7",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Wijken/FeatureServer",
+      "license": "CC0",
+      "records": 11,
+      "files": [
+        "wijken.json",
+        "wijken.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda in 3 minuten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "buurten",
+      "title": "Buurten",
+      "source": "https://data.breda.nl/datasets/41171394c7b44c1ea4fed0bbf44d6177",
+      "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Buurten_ec254/FeatureServer",
+      "license": "CC0",
+      "records": 56,
+      "files": [
+        "buurten.json",
+        "buurten.csv"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda in 3 minuten",
+        "Wat staat er om de hoek?",
+        "Open Data explorer"
+      ]
+    },
+    {
+      "slug": "weer_breda_90_dagen",
+      "title": "Weerhistorie Breda",
+      "source": "https://open-meteo.com/",
+      "source_api": "https://archive-api.open-meteo.com/v1/archive?latitude=51.5866&longitude=4.7757&start_date=2026-08-06&end_date=2026-11-03&hourly=temperature_2m%2Capparent_temperature%2Crelative_humidity_2m%2Cprecipitation%2Cwind_speed_10m&timezone=Europe%2FAmsterdam&models=era5_land",
+      "license": "CC BY 4.0; attributie aan Open-Meteo.com",
+      "records": 2160,
+      "files": [
+        "weer_breda_90_dagen.csv",
+        "weer_breda_90_dagen.json"
+      ],
+      "retrieved_at": "2026-11-09T08:46:49Z",
+      "topics": [
+        "Breda Hitteproof",
+        "Breda in 3 minuten",
+        "Open Data explorer"
+      ],
+      "notes": "Uurlijkse modelwaarden; geschikt voor demonstratie en trendvisualisatie, niet voor actuele lokale waarschuwingen."
+    }
+  ]
+}

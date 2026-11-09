@@ -1,0 +1,353 @@
+{
+  "type": "FeatureCollection",
+  "name": "Fietsenstallingen",
+  "source": "https://data.breda.nl/datasets/efd133b6f32044b48b79ee9330de7652",
+  "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Fietsenstallingen/FeatureServer",
+  "license": "CC0",
+  "retrieved_at": "2026-11-09T08:46:49Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77496634440412,
+          51.5846655210058
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 1,
+        "NAAM": "Oranje Zuid",
+        "STRAATNAAM": "Concordiastraat",
+        "HUISNUMMER": 13,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4811NA",
+        "WOONPLAATS": "Breda",
+        "TOILET": "Nee",
+        "REPARATIE": "Nee",
+        "OVERDEKT": "Ja",
+        "SOORT": "Fietsenstalling",
+        "FIETSACCESSOIRES": "Nee",
+        "HELMKLUISJE": "Ja",
+        "HELMBEHEERDER": "Nee",
+        "OPLAADPUNT": "Ja",
+        "BROMFIETS": "Ja",
+        "BUGGYHUREN": "Nee",
+        "BAKFIETSHUREN": "Nee",
+        "ROLLATORHUREN": "Nee",
+        "RIKSJAHUREN": "Nee",
+        "FIETSHUREN": "Ja",
+        "BABYVERSCHOONHOEK": "Nee",
+        "OBJECTID": 1,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77364901624767,
+          51.5903215602497
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 2,
+        "NAAM": "Haven Kraanstraat ",
+        "STRAATNAAM": "Kraanstraat",
+        "HUISNUMMER": 2,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4811MA",
+        "WOONPLAATS": "Breda",
+        "TOILET": "Nee",
+        "REPARATIE": "Nee",
+        "OVERDEKT": "Nee",
+        "SOORT": "Fietsenstalling",
+        "FIETSACCESSOIRES": "Nee",
+        "HELMKLUISJE": "Nee",
+        "HELMBEHEERDER": "Nee",
+        "OPLAADPUNT": "Nee",
+        "BROMFIETS": "Ja",
+        "BUGGYHUREN": "Nee",
+        "BAKFIETSHUREN": "Nee",
+        "ROLLATORHUREN": "Nee",
+        "RIKSJAHUREN": "Nee",
+        "FIETSHUREN": "Nee",
+        "BABYVERSCHOONHOEK": "Nee",
+        "OBJECTID": 2,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78559799259844,
+          51.5891971162165
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 3,
+        "NAAM": "Het Turfschip ",
+        "STRAATNAAM": "Chasséveld",
+        "HUISNUMMER": 15,
+        "HUISLETTER": "C",
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4811DH",
+        "WOONPLAATS": "Breda",
+        "TOILET": "Nee",
+        "REPARATIE": "Nee",
+        "OVERDEKT": "Ja",
+        "SOORT": "Fietsenstalling",
+        "FIETSACCESSOIRES": "Nee",
+        "HELMKLUISJE": "Ja",
+        "HELMBEHEERDER": "Nee",
+        "OPLAADPUNT": "Ja",
+        "BROMFIETS": "Ja",
+        "BUGGYHUREN": "Nee",
+        "BAKFIETSHUREN": "Nee",
+        "ROLLATORHUREN": "Nee",
+        "RIKSJAHUREN": "Nee",
+        "FIETSHUREN": "Nee",
+        "BABYVERSCHOONHOEK": "Nee",
+        "OBJECTID": 3,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77528171162407,
+          51.5869593154498
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 4,
+        "NAAM": "Nieuwstraat ",
+        "STRAATNAAM": "Nieuwstraat",
+        "HUISNUMMER": 7,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4811WX",
+        "WOONPLAATS": "Breda",
+        "TOILET": "Ja",
+        "REPARATIE": "Nee",
+        "OVERDEKT": "Ja",
+        "SOORT": "Fietsenstalling",
+        "FIETSACCESSOIRES": "Nee",
+        "HELMKLUISJE": "Ja",
+        "HELMBEHEERDER": "Nee",
+        "OPLAADPUNT": "Ja",
+        "BROMFIETS": "Ja",
+        "BUGGYHUREN": "Ja",
+        "BAKFIETSHUREN": "Nee",
+        "ROLLATORHUREN": "Nee",
+        "RIKSJAHUREN": "Nee",
+        "FIETSHUREN": "Nee",
+        "BABYVERSCHOONHOEK": "Ja",
+        "OBJECTID": 4,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77953029201198,
+          51.5875657406099
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 5,
+        "NAAM": "Oude Vest ",
+        "STRAATNAAM": "Oude Vest ",
+        "HUISNUMMER": 27,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4811HS",
+        "WOONPLAATS": "Breda",
+        "TOILET": "Nee",
+        "REPARATIE": "Nee",
+        "OVERDEKT": "Ja",
+        "SOORT": "Fietsenstalling",
+        "FIETSACCESSOIRES": "Nee",
+        "HELMKLUISJE": "Ja",
+        "HELMBEHEERDER": "Nee",
+        "OPLAADPUNT": "Ja",
+        "BROMFIETS": "Ja",
+        "BUGGYHUREN": "Ja",
+        "BAKFIETSHUREN": "Nee",
+        "ROLLATORHUREN": "Nee",
+        "RIKSJAHUREN": "Nee",
+        "FIETSHUREN": "Nee",
+        "BABYVERSCHOONHOEK": "Nee",
+        "OBJECTID": 5,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76991019680938,
+          51.6042075386485
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": 6,
+        "NAAM": "Fietsdepot",
+        "STRAATNAAM": "Steenen Hoofd ",
+        "HUISNUMMER": 2,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": "4825AK",
+        "WOONPLAATS": "Breda",
+        "TOILET": null,
+        "REPARATIE": null,
+        "OVERDEKT": null,
+        "SOORT": "Fietsdepot",
+        "FIETSACCESSOIRES": null,
+        "HELMKLUISJE": null,
+        "HELMBEHEERDER": null,
+        "OPLAADPUNT": null,
+        "BROMFIETS": null,
+        "BUGGYHUREN": null,
+        "BAKFIETSHUREN": null,
+        "ROLLATORHUREN": null,
+        "RIKSJAHUREN": null,
+        "FIETSHUREN": null,
+        "BABYVERSCHOONHOEK": null,
+        "OBJECTID": 6,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83238000054015,
+          51.5857599995569
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": null,
+        "NAAM": null,
+        "STRAATNAAM": null,
+        "HUISNUMMER": null,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": null,
+        "WOONPLAATS": null,
+        "TOILET": null,
+        "REPARATIE": null,
+        "OVERDEKT": null,
+        "SOORT": null,
+        "FIETSACCESSOIRES": null,
+        "HELMKLUISJE": null,
+        "HELMBEHEERDER": null,
+        "OPLAADPUNT": null,
+        "BROMFIETS": null,
+        "BUGGYHUREN": null,
+        "BAKFIETSHUREN": null,
+        "ROLLATORHUREN": null,
+        "RIKSJAHUREN": null,
+        "FIETSHUREN": null,
+        "BABYVERSCHOONHOEK": null,
+        "OBJECTID": 7,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83775442550767,
+          51.5796529809406
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": null,
+        "NAAM": null,
+        "STRAATNAAM": null,
+        "HUISNUMMER": null,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": null,
+        "WOONPLAATS": null,
+        "TOILET": null,
+        "REPARATIE": null,
+        "OVERDEKT": null,
+        "SOORT": null,
+        "FIETSACCESSOIRES": null,
+        "HELMKLUISJE": null,
+        "HELMBEHEERDER": null,
+        "OPLAADPUNT": null,
+        "BROMFIETS": null,
+        "BUGGYHUREN": null,
+        "BAKFIETSHUREN": null,
+        "ROLLATORHUREN": null,
+        "RIKSJAHUREN": null,
+        "FIETSHUREN": null,
+        "BABYVERSCHOONHOEK": null,
+        "OBJECTID": 8,
+        "source_layer": "Fietsenstallingen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83654253538296,
+          51.5764767986568
+        ]
+      },
+      "properties": {
+        "IDENTIFICATIE": null,
+        "NAAM": null,
+        "STRAATNAAM": null,
+        "HUISNUMMER": null,
+        "HUISLETTER": null,
+        "HUISNUMMERTOEVOEGING": null,
+        "POSTCODE": null,
+        "WOONPLAATS": null,
+        "TOILET": null,
+        "REPARATIE": null,
+        "OVERDEKT": null,
+        "SOORT": null,
+        "FIETSACCESSOIRES": null,
+        "HELMKLUISJE": null,
+        "HELMBEHEERDER": null,
+        "OPLAADPUNT": null,
+        "BROMFIETS": null,
+        "BUGGYHUREN": null,
+        "BAKFIETSHUREN": null,
+        "ROLLATORHUREN": null,
+        "RIKSJAHUREN": null,
+        "FIETSHUREN": null,
+        "BABYVERSCHOONHOEK": null,
+        "OBJECTID": 9,
+        "source_layer": "Fietsenstallingen"
+      }
+    }
+  ]
+}

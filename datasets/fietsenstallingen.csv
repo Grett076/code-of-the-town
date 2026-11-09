@@ -1,0 +1,10 @@
+﻿source_layer,IDENTIFICATIE,NAAM,STRAATNAAM,HUISNUMMER,HUISLETTER,HUISNUMMERTOEVOEGING,POSTCODE,WOONPLAATS,TOILET,REPARATIE,OVERDEKT,SOORT,FIETSACCESSOIRES,HELMKLUISJE,HELMBEHEERDER,OPLAADPUNT,BROMFIETS,BUGGYHUREN,BAKFIETSHUREN,ROLLATORHUREN,RIKSJAHUREN,FIETSHUREN,BABYVERSCHOONHOEK,OBJECTID,geometry
+Fietsenstallingen,1,Oranje Zuid,Concordiastraat,13,,,4811NA,Breda,Nee,Nee,Ja,Fietsenstalling,Nee,Ja,Nee,Ja,Ja,Nee,Nee,Nee,Nee,Ja,Nee,1,"{""type"":""Point"",""coordinates"":[4.77496634440412,51.5846655210058]}"
+Fietsenstallingen,2,Haven Kraanstraat ,Kraanstraat,2,,,4811MA,Breda,Nee,Nee,Nee,Fietsenstalling,Nee,Nee,Nee,Nee,Ja,Nee,Nee,Nee,Nee,Nee,Nee,2,"{""type"":""Point"",""coordinates"":[4.77364901624767,51.5903215602497]}"
+Fietsenstallingen,3,Het Turfschip ,Chasséveld,15,C,,4811DH,Breda,Nee,Nee,Ja,Fietsenstalling,Nee,Ja,Nee,Ja,Ja,Nee,Nee,Nee,Nee,Nee,Nee,3,"{""type"":""Point"",""coordinates"":[4.78559799259844,51.5891971162165]}"
+Fietsenstallingen,4,Nieuwstraat ,Nieuwstraat,7,,,4811WX,Breda,Ja,Nee,Ja,Fietsenstalling,Nee,Ja,Nee,Ja,Ja,Ja,Nee,Nee,Nee,Nee,Ja,4,"{""type"":""Point"",""coordinates"":[4.77528171162407,51.5869593154498]}"
+Fietsenstallingen,5,Oude Vest ,Oude Vest ,27,,,4811HS,Breda,Nee,Nee,Ja,Fietsenstalling,Nee,Ja,Nee,Ja,Ja,Ja,Nee,Nee,Nee,Nee,Nee,5,"{""type"":""Point"",""coordinates"":[4.77953029201198,51.5875657406099]}"
+Fietsenstallingen,6,Fietsdepot,Steenen Hoofd ,2,,,4825AK,Breda,,,,Fietsdepot,,,,,,,,,,,,6,"{""type"":""Point"",""coordinates"":[4.76991019680938,51.6042075386485]}"
+Fietsenstallingen,,,,,,,,,,,,,,,,,,,,,,,,7,"{""type"":""Point"",""coordinates"":[4.83238000054015,51.5857599995569]}"
+Fietsenstallingen,,,,,,,,,,,,,,,,,,,,,,,,8,"{""type"":""Point"",""coordinates"":[4.83775442550767,51.5796529809406]}"
+Fietsenstallingen,,,,,,,,,,,,,,,,,,,,,,,,9,"{""type"":""Point"",""coordinates"":[4.83654253538296,51.5764767986568]}"

@@ -1,0 +1,4533 @@
+{
+  "type": "FeatureCollection",
+  "name": "Bladkorven",
+  "source": "https://data.breda.nl/datasets/8e6fb244dad347419e052a8c0b5e36c9",
+  "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Bladkorven/FeatureServer",
+  "license": "CC0",
+  "retrieved_at": "2026-11-09T08:46:49Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76353053060748,
+          51.5667878778946
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "LOCATIE": "Montenslaan 2 op gazon",
+        "systeem_id": "49228764A92492566F92403DDB28C82C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82764046662082,
+          51.568568935175
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "LOCATIE": "Binnenwei/Heining 1 achter gazonhekje",
+        "systeem_id": "AB9AFE10181B468F54CF4252395C1785",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83640525924307,
+          51.5587966505221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "LOCATIE": "Brigidastraat 63 tegenover woning in de berm",
+        "systeem_id": "AFD7B00724536261D2C6D625E34E6EAE",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77678777640407,
+          51.5681414058537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "LOCATIE": "Baronielaan 301-303",
+        "systeem_id": "3062939FF2B1625A57178D4094C57ECC",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71343881729467,
+          51.6052956177875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "LOCATIE": "Vogelbos 26 op gazon",
+        "systeem_id": "61D681A759A52DDE03C6EDA2B5745296",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80019678774043,
+          51.5460983503687
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "LOCATIE": "Pennendijk 22 op gazon",
+        "systeem_id": "2B6250E930BD55DCA773366D1FC17903",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77944879070705,
+          51.5702869509835
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "LOCATIE": "van de Borghlaan tegen muur school",
+        "systeem_id": "A99F347CEAA4339166C573FC19289C60",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81167850607492,
+          51.5713696743973
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "LOCATIE": "Schaffelaarstraat 80-82 op gazon",
+        "systeem_id": "8723B8C7E900819D331864C88DDEA897",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80962820384338,
+          51.5969369872365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "LOCATIE": "Oosterhoutseweg 29 hoek busbaan (Niet op parkeerplaats)",
+        "systeem_id": "AF24FB2B0CF1F2C1752DDFC456F0727A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71530601699778,
+          51.6097745841682
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "LOCATIE": "Beeksestraat 90 naast stroomkast",
+        "systeem_id": "AEFE36C04B6E6CCF592DF1B91B581141",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77378991115014,
+          51.5735032212374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "LOCATIE": "Cimburgalaan naast nr 68 op gazon achter gazonhekje",
+        "systeem_id": "D2831AE60BA164AF1C561E1076D3FBF9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73551783594707,
+          51.6230839879959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "LOCATIE": "Weideslagen 12 op middenberm",
+        "systeem_id": "178D2CA6BA03AC9623BB04469843E92D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71234225119985,
+          51.6035260847689
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "LOCATIE": "Merlijnshof 18 op gazon naast hondenbak bij parkeerplaats",
+        "systeem_id": "49366E416D52025BB8C5F8B216A651D9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76856324683324,
+          51.5772480027594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "LOCATIE": "Hoek Brederostraat-Graaf Hendrik III-plein op voetpad naast parkeerplaatsen kerk",
+        "systeem_id": "E0DECE051158433E9EA3B32437F52108",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77467646050338,
+          51.5994898371295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "LOCATIE": "Polderstraat hoek Leeuwerikstraat op verharding achter paaltjes",
+        "systeem_id": "4F11C0F3590284EB5CD7CBDA5ECDC377",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73588925834925,
+          51.5750964004376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "LOCATIE": "Mandenmakerstraat 5 op gazon",
+        "systeem_id": "B7E58D47F03A18F752C5B9EA6B41DC91",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80527902676783,
+          51.5694098008226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "LOCATIE": "Weerdesteinstraat tegenover 3-5 op verharding",
+        "systeem_id": "68540773200D5FC266D9F2BC232A43F6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81867990195093,
+          51.5936633051008
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "LOCATIE": "Heusdenhoutseweg 86",
+        "systeem_id": "38E1640A42CDC34A459581E79A7F649B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73436324296431,
+          51.551910994451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "LOCATIE": "Effenseweg 42 op gazon",
+        "systeem_id": "C345F98620DB913087D165ED2E4B6BB7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79049681657142,
+          51.5655692715913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "LOCATIE": "Laurenspark 21-27 op gazon",
+        "systeem_id": "20875F52698803A453DF8AC9B021878D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74213055809182,
+          51.5679871742848
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "LOCATIE": "Roskam 20 in berm",
+        "systeem_id": "E4AC8A2901026BE339E43CBF26803507",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74369079255787,
+          51.6090303496796
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "LOCATIE": "Louwersdonk hoek Moerenpad tegen verharding inrit parkeerplaats op gazon",
+        "systeem_id": "F4919918348935F08645756670DD483A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74730157085795,
+          51.5651251422673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "LOCATIE": "Dr. Batenburglaan 114 overkant straat in berm",
+        "systeem_id": "48C235B2714A9D53AEC7A6C4BC221B1A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79866521132321,
+          51.547947237592
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "LOCATIE": "Molenstraat hoek 't Hoffland bij kapelletje",
+        "systeem_id": "17BB152E61252DA15ECFAFF937299D3D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83540708682808,
+          51.5643242996338
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "LOCATIE": "Kloosterstraat 51",
+        "systeem_id": "B8DC52CB2B776E70B508A7079C757D4F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81224667023227,
+          51.5919546807292
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "LOCATIE": "Gastakker 3 op gazon",
+        "systeem_id": "DD78544279B672A56F01CC32186EB49C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78893840073915,
+          51.5874327771641
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "LOCATIE": "Hertog Hendriklaan 1 op gazon",
+        "systeem_id": "256CB2C38DD1815B5F44039C456CFE31",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83118825305255,
+          51.5701974000214
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "LOCATIE": "Kerkepad 18 op gazon",
+        "systeem_id": "B54E4CC9D6F7A935ABEA8A8F0D8860C7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80938927643207,
+          51.5925805501671
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "LOCATIE": "Epelenberg 76-78 op gazon",
+        "systeem_id": "143D3C2FFD337D8532E9925D5D561087",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82406110676499,
+          51.6065413161003
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "LOCATIE": "Korenbocht naast 13 op gazon",
+        "systeem_id": "E1696D3C50A815471818E259689800D9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77806373807957,
+          51.6005737224587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "LOCATIE": "Pastoor Pottersplein naast nr 77 op oprit tegen LM",
+        "systeem_id": "4BE979B74C44B3DB23D393B49CE6CE34",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76833628094843,
+          51.5673958032336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "LOCATIE": "Montenspark 3 naast oprit op halfverharding",
+        "systeem_id": "B8332260207B7F02C2B873D6EE7E7BA8",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75522984631601,
+          51.5916930456873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "LOCATIE": "Kwakkelhutstraat 57; Boykes Speelhoeve achter hekwerk",
+        "systeem_id": "A19C9558F90B666139FC0CCC4EA1E841",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8050852029394,
+          51.5728077108413
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "LOCATIE": "Groot Ypelaardreef hoek Zwijnsbergenstraat op gazon middenberm",
+        "systeem_id": "EBEF1950CBA136C6932EABF9292CCA0A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72456325132209,
+          51.5982196714824
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "LOCATIE": "Meester Bierensweg naast 10",
+        "systeem_id": "BD430450BE93D9E3BFA04505815917FD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76811942010023,
+          51.5669273187664
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "LOCATIE": "Montenspark 6 naast oprit ",
+        "systeem_id": "AB2C82097D1A8E9514CEDDEDAF970C48",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74716152065648,
+          51.573211221942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "LOCATIE": "Thorbeckeplein 23 op gazon",
+        "systeem_id": "D071038127FB20A185562EC290B08C9A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82739523276675,
+          51.6122725140321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "LOCATIE": "Haenenveld naast Hoge stee 17 op halfverharding achter betonnen paaltjes",
+        "systeem_id": "86E7FCCB0CD10D8CBC55C28FBEA736F9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75069673637392,
+          51.58985085131
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "LOCATIE": "Seringenlaan 24 op gazon",
+        "systeem_id": "565C8F211F29D8DBB29DFA4B16CB97E0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72013719654451,
+          51.5991184847039
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "LOCATIE": "Haverdijk hoek Valdijk op gazon",
+        "systeem_id": "767052D9EFB4737638236274D53B0DED",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79737544967743,
+          51.5689287254481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "LOCATIE": "Lorentzstraat 66 op verharding",
+        "systeem_id": "5B70205261C6C81B4E453E8FB106F5B7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73296330469449,
+          51.5527638177065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "LOCATIE": "Effenseweg 24 op gazon",
+        "systeem_id": "9AD86731F5A372896B4D204A4CCFCEB7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74445183752168,
+          51.6050882171854
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "LOCATIE": "Merodelaan 54 tegen fietsenhekje naast verkeersbord",
+        "systeem_id": "39FEBE711B08D1D6F2157B53094E0EC4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78502522968132,
+          51.5774538767403
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "LOCATIE": "Zandberglaan 29 tussen boom en LM 14 op trottoir",
+        "systeem_id": "1D9AE00CD0351E3CFBE24BD553E8CAB2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70544512962197,
+          51.5937160388706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "LOCATIE": "Den Elst 17 op gazon",
+        "systeem_id": "BA951F8146B1EF55413CDCC0BD770040",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74569048894362,
+          51.6156340760931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "LOCATIE": "Cannaertserf hoek Eindoord 1 tussen boom en beplanting",
+        "systeem_id": "72CA2DC67599C3A9CB10AE71BA144651",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8256086936972,
+          51.6141897582208
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "LOCATIE": "Schijfstraat 154-156",
+        "systeem_id": "5EAFECEAC016A33BF91CA17E1CC965FB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83278614031291,
+          51.5673963743212
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "LOCATIE": "Kannunikstraat tegenover 2 op gazon",
+        "systeem_id": "5E232F5007599402FF0AF4EABFEDD715",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71281864011257,
+          51.6021174594198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "LOCATIE": "Kapelstraat 48 ingang stroomhuisje",
+        "systeem_id": "B07EA6BF831D6A99FB125AC973AF9FF3",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7518997446076,
+          51.5908509250699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "LOCATIE": "Kwakkelhutstraat 92-94 op gazon",
+        "systeem_id": "57A61454D3F4DE4825318EAED18F88EA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80082428105745,
+          51.5921151841452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "LOCATIE": "Buffelstraat tegenover 47 op gazon, bereikbaar vanaf de Antiloopstraat",
+        "systeem_id": "75462F2D5BD33FFD848DEA7C317D2E70",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82496060895322,
+          51.5676544130014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "LOCATIE": "Jan Oomenstraat 39 middenberm",
+        "systeem_id": "88697AEA446336FD889FD08CA207654B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81852964638156,
+          51.5912563491523
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "LOCATIE": "Heusdenhoutseweg 52",
+        "systeem_id": "E1EE9A068F0E1B2FE248BDE2C9C1519E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76821329348595,
+          51.5648693983371
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "LOCATIE": "Montenspark 23 op halfverharding",
+        "systeem_id": "628C5A3ED10973D457EC455E732D3F52",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77934252816025,
+          51.6047673408676
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "LOCATIE": "Luikstraat 72 hoek Minderhoutstraat op gazon, NIET achter langsparkeren",
+        "systeem_id": "E5CECEDB2D64CB4A72A43E48FA32B959",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78196081055422,
+          51.5775685908838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "LOCATIE": "Min. Nelissenstraat 23 hoek Zonnebloemstraat",
+        "systeem_id": "37CF444D533A6B27C4BFDBF5BD45F051",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74901675975365,
+          51.5844905296431
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "LOCATIE": "Zandoogjes naast 28 op gazon achter gazonhekje",
+        "systeem_id": "553A1DB6DB7FBC80B047B4DF3993A7B9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7633315660223,
+          51.5708588722521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "LOCATIE": "Mozartlaan hoek - Mendelsohnlaan op gazon HUP",
+        "systeem_id": "EE7DFC68BE5C620BD7EEE611EA9C8995",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78890467714491,
+          51.5862211085014
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "LOCATIE": "Hertog Janlaan tegenover 16 naast oprit op gazon, NIET onder de bomen",
+        "systeem_id": "F0639FBD373E9162EF7ADF3BEC093AE4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82098604122738,
+          51.5900477180187
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "LOCATIE": "Kapelstraat 104",
+        "systeem_id": "FCD456D260EB7A276056595A6063F63E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76504273714599,
+          51.5644146624935
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "LOCATIE": "Burg. de Manlaan 14 naast oprit",
+        "systeem_id": "F7458A44511CB73A12427DBC8F91142D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81562861981923,
+          51.6113157688348
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "LOCATIE": "tegenover Groenstraat 3A-3C tegen kerkmuur",
+        "systeem_id": "315E094E03802F3C89D84873D2A24E78",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78307983896922,
+          51.5797778375974
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "LOCATIE": "Wethouder Romboutsstraat hoek Koninginnestraat 80 op verharding naast boom",
+        "systeem_id": "A02D2D7FB4C6408D057F65A65F4AEE90",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76721903650444,
+          51.5644297924705
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "LOCATIE": "Burg. de Manlaan 9",
+        "systeem_id": "560B623CA487BCD16A0172C335F62B32",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74755330369258,
+          51.5899798382227
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "LOCATIE": "Eikepage to nr 65 hoek Heideblauwtje",
+        "systeem_id": "5C428E65BC4B678E344CB84DEACE4E98",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81806433499108,
+          51.6153804928997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "LOCATIE": "Hoeveneind 52 hoek Mortelweg",
+        "systeem_id": "7C7ED615C73C5D49B2A6F6478DBB8024",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79880465142505,
+          51.5766968843059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "LOCATIE": "Blauwe Kei 143 tegenover op gazon ",
+        "systeem_id": "BAAC69E68155762757E30302A9ED25BB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71245367963378,
+          51.6046040974956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "LOCATIE": "Velsgoed 28 op gazon",
+        "systeem_id": "EFF99C9DCF91EB0BB66A872E4A305FF7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76729043292939,
+          51.5726192469956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "LOCATIE": "Vriesdongen 4 / 43 naast trottoir en stroomkast op gazon ",
+        "systeem_id": "D6093EE48A13577DB37A28BBB1849DA2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81362998072617,
+          51.6106659044011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "LOCATIE": "Ganzendreef 15 naast beukenhaag op verharding",
+        "systeem_id": "106234E1595E2135F33CC33F4FB4273C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74454918088642,
+          51.5736630155146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "LOCATIE": "Heuvelplein 251 hoek Schimmelpenninckstraat achter de ondergrondse op gazon",
+        "systeem_id": "13A26818696C59B1547F46054993C1B0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79526197790663,
+          51.5803993365492
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "LOCATIE": "van Riebeecklaan plein fietsenstalling Tessenderland",
+        "systeem_id": "09BB5B43B250CC3BF7242EECFB9043BE",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82717723266061,
+          51.6111680468521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "LOCATIE": "Lage Stee 5 op gazon",
+        "systeem_id": "7EB339F1036C0548B72BB8F9CDEE1FD9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76137358642415,
+          51.5706568433034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "LOCATIE": "Mozartlaan 29 in berm",
+        "systeem_id": "9A5330FA073731FF2B90B8EA67CE5B4C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78312729732348,
+          51.6126183131512
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "LOCATIE": "Tielrodestraat hoek Bruggeplein 6 op gazon",
+        "systeem_id": "402E602739347EAF1CC075C683F8659E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81523614686414,
+          51.5959948452779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "LOCATIE": "Wieringenstraat tegenover 41-43 op gazon",
+        "systeem_id": "1E63B19194815DD892559AAD89AB719A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81795226184183,
+          51.6136952370135
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "LOCATIE": "Hoeveneind hoek Steenbergen (Hoeveneind 22 in berm)",
+        "systeem_id": "B8163C2CBE71A65F86680883830DB0A9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73311721159735,
+          51.6041672120244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "LOCATIE": "Arenberglaan 280 naast voortuin tegen LM",
+        "systeem_id": "B312188B92063CAFB9D71C37280E59C5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73987088364407,
+          51.5739109285225
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "LOCATIE": "Hovenierstraat 33-35 op gazon straatzijde",
+        "systeem_id": "DF50BA9878596A9A1B4DBCDF2DB8301E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82887066464463,
+          51.5725126348873
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "LOCATIE": "Korte Bunder 13",
+        "systeem_id": "252EFDD3648F40D8CBF2AC35ED341C8F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79684115009083,
+          51.5739204423703
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "LOCATIE": "Groene Woud 142 hoek Waardakker 36 op gazon",
+        "systeem_id": "64CBAC90679F8CD231BA56129F541A48",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82700482390711,
+          51.5722423972741
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "LOCATIE": "Korte Bunder 4",
+        "systeem_id": "CDA71EB88BC7C6C872BE8DE7FF1E5201",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83108219907866,
+          51.5626134715002
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "LOCATIE": "Wildbraak 45 op gazon",
+        "systeem_id": "7DBFC88B4D5368DAD94AFFF8A23F0649",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71171317603792,
+          51.6074226892716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "LOCATIE": "Heikantsestraat 72-74 hoek Dopheide op gazon",
+        "systeem_id": "E27E5E4D1FB24E3AF6DDCA947110EF73",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73799497745976,
+          51.5687633816931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "LOCATIE": "Ambachtenlaan thv Vogelschoot in berm",
+        "systeem_id": "7B8DECD64A3690880894E4B077C7A3E2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76483149626061,
+          51.5664639303894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "LOCATIE": "Montenslaan 8 op hoek op gazon",
+        "systeem_id": "3C6C409E9AE80DAB2C756C31275DF4BA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82348909448329,
+          51.6118402348335
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "LOCATIE": "Schijfstraat 108-110",
+        "systeem_id": "0214EB225AC0A2BF1F0ED2C2D2934509",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8302258398306,
+          51.5718864576095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "LOCATIE": "Lange Bunder 28-30  op gazon tussen parkeerplaatsen in",
+        "systeem_id": "B5E2B45B69686FA6BC9C49D1719619DE",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74955557635525,
+          51.616247842125
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "LOCATIE": "Cannaertserf 40-42 hoek Vekenoord",
+        "systeem_id": "4ECB8BF1D1ABED0F676DD511EF78E75F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82116749710463,
+          51.5921444556831
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "LOCATIE": "Bergschot naast 200 op gazon",
+        "systeem_id": "E80E33ADF0A6C3221A7AB1B982456D46",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79751173733871,
+          51.5638043872595
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "LOCATIE": "Naast Valentijnlaan 28 in berm achter trottoir",
+        "systeem_id": "B7E84E7C0DB8936D273BEA65EA35FCD2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71255542471002,
+          51.5970259465133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "LOCATIE": "Blauwe Baan 1-3 hoek Vianendreef",
+        "systeem_id": "E3568A7EC677B65211FF109EB66B1AC5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79902031074336,
+          51.6103560084144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "LOCATIE": "Paul Hankarstraat ingang volkstuinen",
+        "systeem_id": "CCD09A0B627434548FE3D5AD8F57BDD5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78920489005625,
+          51.6103396484719
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "LOCATIE": "Zandhovenstraat tegenover 12-14",
+        "systeem_id": "65D09FF7930B2DDC5E7C133BE50CBC9E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79109548417875,
+          51.5646583013966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "LOCATIE": "Laurenspark 57 achter haagje",
+        "systeem_id": "35F74347BBEB952A98529C3D55C7C528",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80398997440132,
+          51.565748350562
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "LOCATIE": "Overakkerstaat op het pleintje tegen de beplanting",
+        "systeem_id": "7046E04E5B23B6CBD1A3AC08965D7CD5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72572762685155,
+          51.5970325049589
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "LOCATIE": "Meester Bierensweg 9B op gazonstrook tegen woning",
+        "systeem_id": "9EC4FA13979284015AC3314889807C87",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81839048226547,
+          51.6109647294011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "LOCATIE": "Willem Alexanderplein 2 tussen verkeersbord en paal ",
+        "systeem_id": "C4946CA569D28F00B15E3625658DF870",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71262930623389,
+          51.5991837901241
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "LOCATIE": "Harmonielaan tegenover 15 op gazon",
+        "systeem_id": "0B250DBDC53831DFC4137B0A5D5F5077",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71547673399244,
+          51.6087900568221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "LOCATIE": "Beeksestraat 86A op gazonstrook",
+        "systeem_id": "E2DF73AF2FECD88F0063F709E7CA6B88",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70570592553334,
+          51.6054911828127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "LOCATIE": "Brielsedreef 34 in berm",
+        "systeem_id": "6C6B3DA2F967D0D34C11EB7C9DA3275C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83510628756776,
+          51.5672916068095
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "LOCATIE": "Lavendelhof 22",
+        "systeem_id": "ABCA009907ADED2223448D453501F74D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79192501705336,
+          51.5658924050101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "LOCATIE": "Bavelselaan 61-63 hoek Kerkhofweg",
+        "systeem_id": "26EC6A7DAE3AD3C799773CA87EC42E9C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78842129302136,
+          51.5577578737668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "LOCATIE": "Bieberglaan 64 tussen bomen op verharding",
+        "systeem_id": "E2F388C311EA82064211D2C62C9DA73D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8151293396297,
+          51.5715449897195
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "LOCATIE": "Middachtenstraat 67-69 op gazon",
+        "systeem_id": "5F8B7B7F6699C12EB45E54DAFD13B5F5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78968962184702,
+          51.5574887789496
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "LOCATIE": "Bieberglaan tegenover 40 naast restafvalcontainer",
+        "systeem_id": "F0033FAE64EAE8EDDB9E1D6FE12C3C0B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80862262961235,
+          51.5438979556531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "LOCATIE": "Beekakker 5",
+        "systeem_id": "E0F6C6A6D2B57B7D47E59F2D55B71676",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79462082676946,
+          51.5442558965243
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "LOCATIE": "Slotlaan hoek Vallei in berm",
+        "systeem_id": "8BD40D16939510218B2E5573DFD88DD0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77357307346018,
+          51.596497887416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "LOCATIE": "Kwartelstraat hoek Kievitstraat 43 op verharding",
+        "systeem_id": "515974B87A71A7E0B2FEFEDD02D00A97",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74460420813883,
+          51.6021225439162
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "LOCATIE": "Laagbos hoek Spank thv bord woonerf tegen houten paaltjes",
+        "systeem_id": "36F5991F5BB30081B4A3B39002F6816B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71418976099449,
+          51.6035773082575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "LOCATIE": "Abdisstraat 5 op gazon",
+        "systeem_id": "6E2A856A4301287872A5E01184704BFC",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71697465490094,
+          51.5962464456035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "LOCATIE": "Middenweg 21 op gazon",
+        "systeem_id": "C1C0B54250DB1083EE998D7801597B07",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76478634350443,
+          51.5654772899011
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "LOCATIE": "Montensbos 39 hoek Montenslaan",
+        "systeem_id": "2224A9B468D5CB1E14B4F0364100007F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81905830378568,
+          51.5947763947319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "LOCATIE": "Moleneindstraat 10",
+        "systeem_id": "7A40416679E0C7D8D0C7466E752DC56C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75107972650036,
+          51.5907198234819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "LOCATIE": "Seringenlaan 38 op gazon",
+        "systeem_id": "68D136999E76879644CF80BFD3E9CD43",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81034629897654,
+          51.570225096937
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "LOCATIE": "Schaffelaarstraat 36-38",
+        "systeem_id": "C935F60D72175B4469F2ADFE84CD14A3",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83085269623498,
+          51.6103069730237
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "LOCATIE": "Laanzichtweg 63 in berm",
+        "systeem_id": "EC114E63559779772D31882D38929BFF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81462385781137,
+          51.561610250401
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "LOCATIE": "Klein Wolfslaar 18A in berm links naast de oprit",
+        "systeem_id": "BF2754D574A16E404F8D0DA14197146C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73507807332142,
+          51.5727783840295
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "LOCATIE": "Klompenmakerstraat 7 naast cocons op plein",
+        "systeem_id": "F46535F4542CC7A5A45378977AD3D364",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80751659155192,
+          51.5869615080778
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "LOCATIE": "Lage Kant t.o. 40 naast voetpad op gazon.\n",
+        "systeem_id": "444F56A87CDE6897802A69A621F01BDD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8341572687088,
+          51.5628447785903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "LOCATIE": "Beemd 18 op gazon / Middeltiend",
+        "systeem_id": "FE1BFFDB740835C1D487F79C4B670378",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70524003525545,
+          51.5953576568623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "LOCATIE": "Moleneind 19 op gazon",
+        "systeem_id": "7204A570C8239922F930B53A5F1AA47F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7363362131938,
+          51.569969289325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "LOCATIE": "Ambachtenlaan parkje berm langs voetpad richting Advocaatsdreef",
+        "systeem_id": "3884973E46C8429C656A82EC15E147B2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72967916661161,
+          51.6079763248557
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "LOCATIE": "Kesterendreef 14 tegenover ingang kinderboerderij in berm",
+        "systeem_id": "BA66E1734D96197C1E70F0667E586A01",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79317557271005,
+          51.5497748073699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "LOCATIE": "Markdal 15 op gazon",
+        "systeem_id": "7AB4D6409733D4544A4A4F27D93D80CF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81878213551237,
+          51.6035667550387
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "LOCATIE": "Moleneind tegenover 34-36 bij trafohuisje",
+        "systeem_id": "F60788F1AF5EFF8098225CEE9E126CA3",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73324327730234,
+          51.5769491939731
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "LOCATIE": "Speldenmakerstraat 10-12 op gazon",
+        "systeem_id": "DC9D00A5700A4DE97B90DAF1E8E6D79B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72339690908311,
+          51.6100291414843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "LOCATIE": "Diderica Mijnssenstraat 40 tegen pallisadepaaltjes",
+        "systeem_id": "A8D9C067D10637469C56A28EB4BA048C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73060560815381,
+          51.6048800825981
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "LOCATIE": "Arenberglaan 342 achter piramidepaaltjes",
+        "systeem_id": "F151C21471DC55B43AAE5B90FA028979",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75487993880403,
+          51.5648292546691
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "LOCATIE": "Dr. Batenburglaan 193 net voor woning in groen",
+        "systeem_id": "04604AC04FC5FA53AB34EDBC8FE0D2FD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80666827072588,
+          51.5640655502405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "LOCATIE": "Overakkerstraat 343 hoek Struijshof in berm",
+        "systeem_id": "AE88EBC9AD765534C2943D6D950F89B0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71708997454579,
+          51.5937247936668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "LOCATIE": "Zuidlaan tegenover 47 op gazon",
+        "systeem_id": "CE26876B2C06099B19B78D9968E33E6F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71041622658584,
+          51.6044656835736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "LOCATIE": "Velsgoed 48 op gazon",
+        "systeem_id": "7778B68D169FBAF4F3521885CEB91461",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79467857519741,
+          51.5882122859331
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "LOCATIE": "Brabantlaan 40 tegenover op gazon",
+        "systeem_id": "78FFD2BC43ED8323D19B714EBEB28702",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76321752437135,
+          51.5640508650934
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "LOCATIE": "Burg. de Manlaan 20",
+        "systeem_id": "80E8DA3626D5B79D9F1CE1B6BB8E8839",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81798593092562,
+          51.5676835441686
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "LOCATIE": "Nieuw Wolfslaarlaan 12 naast oprit",
+        "systeem_id": "FC31618EF5D191A4B2659B90D80AA8D7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70807404290349,
+          51.5942940985566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "LOCATIE": "De Gemetjes 3-5 op gazon",
+        "systeem_id": "F027C1A555CA1330DA91494A218ECA4B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83007620358086,
+          51.5692680092563
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "LOCATIE": "Mosdonk 3 op gazon",
+        "systeem_id": "3276F83FAE8B2AE8A6E7BE845D4CC944",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8200245698371,
+          51.5880968734943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "LOCATIE": "Heusdenhoutseweg 85-87 in berm",
+        "systeem_id": "53D94C9864813A99BAE18855F97F6B25",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82275741998413,
+          51.602882000913
+        ]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "LOCATIE": "Wildhage 17 hoek Valkenstraat",
+        "systeem_id": "EC8599E6B885069EDC5FE4E5BAFD317E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81916727712739,
+          51.568198539962
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "LOCATIE": "Nieuw Wolfslaarlaan 1-3",
+        "systeem_id": "A1C0998B0D6394B459B0E560013FF915",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81934619826332,
+          51.5894492028145
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "LOCATIE": "Heusdenhoutseweg 97",
+        "systeem_id": "5BBFE9C7BC61D4479CAC819B687F8E2C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81614477067633,
+          51.5611637319256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "LOCATIE": "Klein Wolfslaar 14B in berm",
+        "systeem_id": "81935B655DEC90DE85FB709E9F110C0F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80629816423941,
+          51.5751766658975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "LOCATIE": "Hofwijkstraat 46 in bocht achter de paaltjes op gazon",
+        "systeem_id": "79E44BC73FADA0A84947FC2A551DAAC2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8220754393065,
+          51.6106757895852
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "LOCATIE": "Adriaan Oomenstraat 27",
+        "systeem_id": "44FD60AC5320CF9DC8B4881F910FB153",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81826886218759,
+          51.5885877865917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "LOCATIE": "Heusdenhoutsestraat 15 langs de straat",
+        "systeem_id": "46D16AADFDD825D912A1ED8118C51471",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7328694154651,
+          51.5778621539955
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "LOCATIE": "Liesboslaan 27",
+        "systeem_id": "E421F1145FF551AB842C3FB27B28576F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.706642979462,
+          51.6048478074997
+        ]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "LOCATIE": "Brielsedreef 28 A naast stroomkast bij LM 19",
+        "systeem_id": "0941D1CED74259E4162974BE52E5AED4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80107773291409,
+          51.55200029144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "LOCATIE": "Julianalaan hoek Bladerstraat op gazon",
+        "systeem_id": "412A71141DB24FFA0A4988814B8B958E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71062545045234,
+          51.5974812435184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "LOCATIE": "Vianendreef 26 hoek Banierstraat op gazon",
+        "systeem_id": "70915E65E3383D37867E1EF6CA06B59F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79600752009913,
+          51.5450959709631
+        ]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "LOCATIE": "Molenstraat 48 op gazon",
+        "systeem_id": "2E80C2EE26B581A493C51D6A6F54363A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82223535982209,
+          51.5904426075998
+        ]
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "LOCATIE": "Kapelstraat 112",
+        "systeem_id": "1DC0620E3D853258F8E66A62B168DAD4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75543279699419,
+          51.5752875483621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "LOCATIE": "Columbusstraat 40 op verharding speeltuin",
+        "systeem_id": "D54284A5286C759D5F3AC8D42F3BBF52",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82629055202165,
+          51.6119208485877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "LOCATIE": "Lage Stee 24 achter haagje op parkeerplaats",
+        "systeem_id": "A913E31196B85A2C7A4EE56B36651527",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71480160176943,
+          51.5954749985397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "LOCATIE": "Schotenhof hoek Brabantstraat",
+        "systeem_id": "9FCF4FA4BB9AAAC2FF5053CD0E3D0A58",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80319370558649,
+          51.5463956079445
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "LOCATIE": "Craenlaer hoek Pennendijk middenberm op gazon",
+        "systeem_id": "81FC656EEE030B709051F71C9EDA1F1D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82822185837271,
+          51.5637955532198
+        ]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "LOCATIE": "Deken Dr. Dirckxweg 3A / hoek Schoutenlaan; naast bordje 'de Huif' doorsteek Hoge Zijde",
+        "systeem_id": "28D4996856EFB168B9BAF0EFF24418DD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74545716848376,
+          51.6081930732458
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "LOCATIE": "Louwersdonk 10 tegen de gazonstrook",
+        "systeem_id": "3D653D3F35309CB21EB76D99CA5E1035",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75038603026251,
+          51.5891374551863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "LOCATIE": "Seringenlaan 10 op gazon",
+        "systeem_id": "FE461D94D80F279FFEBFE8FF6FD0293B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7035974978564,
+          51.6000651170255
+        ]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "LOCATIE": "Spieakker op gazon voor nr 2",
+        "systeem_id": "1757D86102A2849943043FE5C60D47A8",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74807555071907,
+          51.5644265876382
+        ]
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "LOCATIE": "Dr. Batenburglaan 142 overkant straat in berm",
+        "systeem_id": "2EF9632409D841635C6E23A8F6B8C066",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77164530303863,
+          51.5743377074569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "LOCATIE": "Kortenaerlaan 40 voor woning tussen bomen op gazon",
+        "systeem_id": "4C28A148D95570B579728E6AC25674AC",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76209491362794,
+          51.5811046310133
+        ]
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "LOCATIE": "Oranjeboomplein 2A achter palen nabij glascontainers / kapsalon",
+        "systeem_id": "8B0A72D9DB110CE5047B33C9BDE12BF2",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74530257555295,
+          51.5715796608709
+        ]
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "LOCATIE": "Flierstraat gazon tegenover 23-25",
+        "systeem_id": "6F0D0BE16AD29DDA413266039D9DB70E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72710315944572,
+          51.614999360107
+        ]
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "LOCATIE": "Johansberg op gazon naast nr 7, niet direct onder de bomen ivm ledigen",
+        "systeem_id": "DEF2E5A0E09889FD90D527931BF2D321",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74588755411771,
+          51.5917931142905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "LOCATIE": "Dwergblauwtje 14 achter haag op gazon",
+        "systeem_id": "AE0569466A19F6B44C9CD86D67C768C5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73216242515808,
+          51.5538375983507
+        ]
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "LOCATIE": "Effenseweg 15 (school) bij palen oprit kerk",
+        "systeem_id": "7C4264385DCA8D01F7D4B43B842079FB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7434225074139,
+          51.569864778614
+        ]
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "LOCATIE": "Mastbosstraat 145 op gazon",
+        "systeem_id": "CBD73AA48EA66861CA373D5300F602D6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70899978662581,
+          51.5954910007742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "LOCATIE": "Westerkim 25 op gazon",
+        "systeem_id": "773934A35A03928C6C31D0E7F384ADFB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79917624015831,
+          51.5748615253718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "LOCATIE": "Groene Woud 198-200 op verharding",
+        "systeem_id": "8F501FC6E03359ADF6E09DFE96855D09",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79469201629946,
+          51.5472433730545
+        ]
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "LOCATIE": "Den Deel 8",
+        "systeem_id": "4DC8679D64803871958BBA1028FCE8B0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70772105787741,
+          51.5997926178971
+        ]
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "LOCATIE": "Heertgank 3 op gazon",
+        "systeem_id": "EEE786B7EBA385ABCAAA1A75CDDC59BF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81965406151404,
+          51.6020010463036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "LOCATIE": "Moleneind naast oprit nr 7 schuur in berm",
+        "systeem_id": "B7013C418396F0B080E1CF87F34E46F0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70920302819003,
+          51.5965002652985
+        ]
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "LOCATIE": "Molenstraat 117 achter haagje bij drempel, NIET achter langsparkeren",
+        "systeem_id": "8A610BB68B58D99D851B0A274DFF4A0B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80273668858871,
+          51.568682739919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "LOCATIE": "Assumburgstraat 43 op gazon",
+        "systeem_id": "E28C56079A2C3E44BC6DC25ABBED5CFD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80061725347111,
+          51.5707858325911
+        ]
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "LOCATIE": "Croystraat 25 hoek Neubourgstraat op gazon",
+        "systeem_id": "5C9B25D27E76627F6A9D80AF6E06EAA7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8227113783042,
+          51.611370937672
+        ]
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "LOCATIE": "Overzijde Adriaan Oomenstraat 37\n",
+        "systeem_id": "19129A0BD62F0215925191BA19F690DD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80461555066053,
+          51.547165524148
+        ]
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "LOCATIE": "'t Hofflandt voor nr 55 op gazon",
+        "systeem_id": "F8A0CFA1A507960312C3D36CFA390C75",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83008581795941,
+          51.5623599005127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "LOCATIE": "Hoge zijde 27 achter haag",
+        "systeem_id": "82E428599600F9880DE7194C0CC34590",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82446909158398,
+          51.5664373378825
+        ]
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "LOCATIE": "Dielishoek 9 middenberm gazon",
+        "systeem_id": "00060844933E461CCAF578E72446EC9F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79349932717761,
+          51.5537907239251
+        ]
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "LOCATIE": "Markdal 4 hoek Slotlaan in berm",
+        "systeem_id": "95CD1003941B2A5FC9E28C1A833EE1EA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80937962508161,
+          51.5471430772966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "LOCATIE": "Berkendreef 8",
+        "systeem_id": "717D74E81B97DCC03B182E905D1A1B73",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79269502868284,
+          51.5518441599739
+        ]
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "LOCATIE": "Markdal 11 in berm",
+        "systeem_id": "8E5989D8C37B152518A26FAFEE3A7B36",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7923555068961,
+          51.5531918202963
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "LOCATIE": "Markdal 6 door de bocht naast bankjes",
+        "systeem_id": "4BDF00944BA98579E293ABC799D26CC4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76757944915774,
+          51.5651781919012
+        ]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "LOCATIE": "Montensbos 25 op halfverharding naast oprit",
+        "systeem_id": "CEAC739E170D164C56A1D8B4639A5E17",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79829560888146,
+          51.5658495474568
+        ]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "LOCATIE": "Crispijnhof-Barbaralaan to 94 op gazon",
+        "systeem_id": "0F56B814338630250D3D02C5A00BC4A7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78900684006877,
+          51.5666787120032
+        ]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "LOCATIE": "Bavelselaan 3B hoek van Brechtstraat",
+        "systeem_id": "7AC7CFE8901950E6C316C8B47D87FD3F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80026858550568,
+          51.547405913862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "LOCATIE": "'t Hofflandt 2",
+        "systeem_id": "84F0BF273628E3F22C8F7A935291E982",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81995440340449,
+          51.5856920903429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "LOCATIE": "Heusdenhoutseweg 71-73 in berm",
+        "systeem_id": "282E7E4DECAF064016CB54DE442291B8",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82048301670928,
+          51.608577582587
+        ]
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "LOCATIE": "Schijfstraat 68-70",
+        "systeem_id": "3B723C39AAF2E27589B36860500AC8C5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70602074586724,
+          51.5971499475181
+        ]
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "LOCATIE": "Moleneind 4 berm hoek Beukenhof",
+        "systeem_id": "309EA78C8359A7FED253F2A8B1556DFA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83627438217394,
+          51.5636057163609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "LOCATIE": "Gilzeweg 4 hek Beemd op gazon",
+        "systeem_id": "152A60C832951C9B2A54DA9CFC72C783",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83476517012343,
+          51.5605055775599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "LOCATIE": "Kalverwei in parkeerhaven thv huisnummer 1",
+        "systeem_id": "1BF6AE2B8CD997BD818CCB4FBA5B54FF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79938588304343,
+          51.5670080147397
+        ]
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "LOCATIE": "Brigidastraat tegenover nr 14 op gazon",
+        "systeem_id": "1603CD263BC9CA0CF31C023360DC24D5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72685073716807,
+          51.6137476762905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "LOCATIE": "Bergdreef thv 108 middenberm, doorsteek Davidsberg",
+        "systeem_id": "844C36CB82DC52CFDE18C58AD998DC89",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73357798411895,
+          51.5777608773733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "LOCATIE": "Liesboslaan 19",
+        "systeem_id": "B66E4193E3F4687235F6A60C1BE3C6AB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7964719746394,
+          51.5875608592209
+        ]
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "LOCATIE": "Mgr. van Hooydonkstraat naast nr 18 op gazon voor stroomkast",
+        "systeem_id": "A3699940198F384DFDB7CE0A7FD3713B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8113969151865,
+          51.6113360446383
+        ]
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "LOCATIE": "Groenstraat 8-8A",
+        "systeem_id": "D4C6D8A10C6502969F190E1B14920F99",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80992926072839,
+          51.565541671318
+        ]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "LOCATIE": "Bavelselaan 325-327 in berm",
+        "systeem_id": "DD649511722C76A642B0123066CE2161",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79865802385468,
+          51.6027919941909
+        ]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "LOCATIE": "Lelystraat 77-79 / Johan Marijnenboog 2",
+        "systeem_id": "0982CBD5989934C5324D410A6F6059CF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74994191548337,
+          51.6132882435185
+        ]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "LOCATIE": "Cannaertserf 27-29 op gazon straatzijde",
+        "systeem_id": "35C36D62D58C22AA9AA792938979CB63",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77012157730413,
+          51.5733775033765
+        ]
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "LOCATIE": "Karel Doormanlaan 15 gazon middenberm",
+        "systeem_id": "0DFE987DD788CBB8AB6EF84E98863F6A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71426908068464,
+          51.5929500377639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "LOCATIE": "Prinsenboschlaan 35 op gazon overzijde straat",
+        "systeem_id": "EB27D6EEC330E6E1135C1D12BECF7C68",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79772578201992,
+          51.5437275629063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "LOCATIE": "Wiek 53 op gazon",
+        "systeem_id": "8CBC48CE1D301B29585327AB96421541",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78753142055675,
+          51.5783867099151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "LOCATIE": "Zandberglaan 56 naast oprit tegen LM 25; niet achter langsparkeren",
+        "systeem_id": "1CC64B2EFCFEE9E3B8161995C528722F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74951888678478,
+          51.6181941229446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "LOCATIE": "Komoord 8 op gazon",
+        "systeem_id": "68B32090F2D17F85F39D624E9AED64F6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83143025082969,
+          51.5681986048041
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "LOCATIE": "Abdij van Thornstraat 6 op gazon",
+        "systeem_id": "076CA12AF8105E2DD9CFEABE573FD7C9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74578345033046,
+          51.5694848944317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "LOCATIE": "Talmastraat 121 op gazon tussen boom en LM ",
+        "systeem_id": "5705275AAF8C42B3D3A3BC880D8E3291",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80117062115415,
+          51.5504551611524
+        ]
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "LOCATIE": "Julianalaan hoek Bosrand op verharding",
+        "systeem_id": "55FADA74556750B3661D10F33C8B3605",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82450806404901,
+          51.5640634886977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "LOCATIE": "Vennekes tegenover 13 in berm",
+        "systeem_id": "88F432DBB9E078FDE22F87128399A1DF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76488367015635,
+          51.5775792723327
+        ]
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "LOCATIE": "Brederostraat 43-45 op gazon",
+        "systeem_id": "1576E94030F7E81FEEDA83FD60D6E3E4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75365238908145,
+          51.5908425960966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "LOCATIE": "Kwakkelhutstraat 72",
+        "systeem_id": "25B436F65C99B8C7A7CF87C24E81F568",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81046546341097,
+          51.5731443353777
+        ]
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "LOCATIE": "Rechterenstraat 51 op gazon",
+        "systeem_id": "5C09B446789528EE2D68BEA68E1B414C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78638722639246,
+          51.5777213056833
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "LOCATIE": "Zandberglaan 37 tussen boom en LM 20 op trotoir",
+        "systeem_id": "DCFCC2732282EC5E0C08FB57DDAA5309",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71440803217359,
+          51.6071589448459
+        ]
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "LOCATIE": "Liniewal naast 7 op gazon",
+        "systeem_id": "0AFCB4D655CF1A3298EFBC5967B97FD7",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83732194870158,
+          51.561580724217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "LOCATIE": "Gilzeweg 20 in berm tussen rijbaan en fietspad naast oprit",
+        "systeem_id": "A4BEF9B79F4957C928828E1D369DF093",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76773257759451,
+          51.582318292385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 222,
+        "LOCATIE": "Beatrixstraat 5 / Margrietstraat 27 in bocht op gazon",
+        "systeem_id": "4AFDD74FBAEE0E1918FD39F173AC3256",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73785289626195,
+          51.6219197078613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "LOCATIE": "Honderdbunder 46 op gazon, niet achter haag",
+        "systeem_id": "3DFB7D740DB190E85C0477ED32F64C72",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82473687069051,
+          51.6081769545874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "LOCATIE": "Montenshoeve 18-20 tegenover op gazon",
+        "systeem_id": "90EACAC842C18D99C0C4DCD068E83A5E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81219898021667,
+          51.5889381895319
+        ]
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "LOCATIE": "Kapelstraat 5 hoek Gastakker op gazon ",
+        "systeem_id": "5954010860862937DC45416DC4A3FC99",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74801861727418,
+          51.6085021208429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "LOCATIE": "Heienlangdonk 23 op gazon",
+        "systeem_id": "005BCC6B99891606FD9D6A6EA2403BEF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74969061434673,
+          51.6117384532695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 227,
+        "LOCATIE": "Heienlangdonk hoek Somerweide 2",
+        "systeem_id": "35D26FA7635A6586ED14D0A6FC9FB936",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83656382055852,
+          51.5645179342064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "LOCATIE": "Kloosterstraat doodlopend stuk achter Tweeschaar",
+        "systeem_id": "5342D3CC0F95D3D4BAA81DADD8265DE8",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.749612498425,
+          51.5628911636376
+        ]
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "LOCATIE": "Dr. Batenburglaan 188 op gazon",
+        "systeem_id": "213F3AB98B76A85641EA392311780879",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81356895023013,
+          51.5619187446048
+        ]
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "LOCATIE": "Klein Wolfslaar 18C op gazon",
+        "systeem_id": "57BD73365C13228E539318BE4B45751F",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81242671302165,
+          51.5730392016344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 231,
+        "LOCATIE": "Zorgvlietstraat hoek Doorwerthstraat achter knotwilg",
+        "systeem_id": "6B7B1F974DDF80865DF9A0A3A6C7D851",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79691689942069,
+          51.5731312017478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "LOCATIE": "Viveslaan 102 op gazon tussen bomen",
+        "systeem_id": "DCED527A26C37BB66720FF303B7773D1",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80488908894993,
+          51.5902269214063
+        ]
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "LOCATIE": "Mgr. de Vetstraat 58-110 overzijde straat op gazon",
+        "systeem_id": "C3BFA25D6FE5FC5EBF7A0A5F6E557ABA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79199251011618,
+          51.587000997558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 234,
+        "LOCATIE": "Hertog Hendriklaan 16 op gazon (over de voetpad)",
+        "systeem_id": "AC12D2B7EBBCAB2101C79C72642C342D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81988251282543,
+          51.6136436985361
+        ]
+      },
+      "properties": {
+        "OBJECTID": 235,
+        "LOCATIE": "Steenbergen 14-16",
+        "systeem_id": "39CF6F8A756871DC2A8900CAB9B81CF5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77390147787628,
+          51.5718621404894
+        ]
+      },
+      "properties": {
+        "OBJECTID": 236,
+        "LOCATIE": "Graaf Engelbertlaan 30-32 op gazon straatzijde",
+        "systeem_id": "8680897B51B7CBD5A3D4854A17F00CA0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71784757920371,
+          51.5961890140357
+        ]
+      },
+      "properties": {
+        "OBJECTID": 237,
+        "LOCATIE": "Middenweg 31-33 op gazon",
+        "systeem_id": "5B8BC976EF011C6A620FDED621BA4654",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82846915918501,
+          51.5678731440905
+        ]
+      },
+      "properties": {
+        "OBJECTID": 238,
+        "LOCATIE": "Tommerdwei 6 op gazon achter gazonhek ",
+        "systeem_id": "5578E00BD960AF027DEEF6E34749E2F6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78562957955048,
+          51.5782409322143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "LOCATIE": "Wethouder Romboutstraat hoek Hortensiastraat 2",
+        "systeem_id": "32A6BC63FCF5A239C86156E75762901A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81074692783461,
+          51.545906490249
+        ]
+      },
+      "properties": {
+        "OBJECTID": 240,
+        "LOCATIE": "Anneville-laan 85 in berm",
+        "systeem_id": "08C2BF9196AB98EAA3B611295FB07BFF",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80544024057689,
+          51.5755424240481
+        ]
+      },
+      "properties": {
+        "OBJECTID": 241,
+        "LOCATIE": "Haamstedestraat 14 overzijde op breed stuk trottoir",
+        "systeem_id": "94820DC5C3F53B79F488B45E66399E06",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82309052177892,
+          51.5907571007856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "LOCATIE": "Kapelstraat in bocht tegenover 116 op gazon",
+        "systeem_id": "E47FE4A6B369CA751135FCEA177B8937",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77018501638299,
+          51.5644606470504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "LOCATIE": "Burg. de Manlaan 3\n-okt. 2024 verplaatst naar huidige locatie",
+        "systeem_id": "C4AAE63D35A8FBC100AC5D55E9C4B1C9",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79487721435128,
+          51.5694053636114
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "LOCATIE": "Lorenzstraat 26A op gazon direct naast verharding",
+        "systeem_id": "7FD5E338F53B9EB1D2B91786C956B2DA",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82389752437718,
+          51.6122872361647
+        ]
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "LOCATIE": "Schijfstraat 122",
+        "systeem_id": "7521F33DAC70EEA4D836B07CBB2129E0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82584494468577,
+          51.5914802686572
+        ]
+      },
+      "properties": {
+        "OBJECTID": 246,
+        "LOCATIE": "Bergschot 614 naast cocons",
+        "systeem_id": "359CEF304AD2D6A2C69E9EBD87B08CB6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83215416670245,
+          51.5607808458022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "LOCATIE": "Driehoek 26",
+        "systeem_id": "E8DFF8D936F7F625FAA85A73917DB55C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79029924877694,
+          51.5881669443877
+        ]
+      },
+      "properties": {
+        "OBJECTID": 248,
+        "LOCATIE": "Brabantlaan 14-16",
+        "systeem_id": "F890EEDA880D31A011770C78963B285C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7344269888407,
+          51.5766525741452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 249,
+        "LOCATIE": "Speldenmakerstraat 1 op gazon Ambachtenlaan",
+        "systeem_id": "3298D19633E3B55B212575D96A26F3A6",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82385747258179,
+          51.6133204333978
+        ]
+      },
+      "properties": {
+        "OBJECTID": 250,
+        "LOCATIE": "Steenbergen 47 op gazon",
+        "systeem_id": "AD8FE0E1FDAF207FE2F017BD44DED473",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7342756026271,
+          51.5776582975462
+        ]
+      },
+      "properties": {
+        "OBJECTID": 251,
+        "LOCATIE": "Liesboslaan 9",
+        "systeem_id": "B42DF69D68D0ED1486474DD18706417A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71562844910229,
+          51.5963528832389
+        ]
+      },
+      "properties": {
+        "OBJECTID": 252,
+        "LOCATIE": "Middenweg 9 op gazon",
+        "systeem_id": "41090D7F123956AA03C66105CEE079E5",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.705099066631,
+          51.5921588261202
+        ]
+      },
+      "properties": {
+        "OBJECTID": 254,
+        "LOCATIE": "Liesbosdreef 3 op gazon tussen de bomen",
+        "systeem_id": "052617B6CD636BF8288D30AF156F913D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8194102627277,
+          51.5899933008275
+        ]
+      },
+      "properties": {
+        "OBJECTID": 255,
+        "LOCATIE": "Heusdenhoutseweg 34 bij kapel",
+        "systeem_id": "A6DA9C8D739936FE5DFB805C8A41278D",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78053100620623,
+          51.5733066846073
+        ]
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "LOCATIE": "Kortestraat hoek - Marijke Meustraat 118",
+        "systeem_id": "B9B7A93E967D1E3E62A725F14F67FB11",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78506358787795,
+          51.5786629895733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 257,
+        "LOCATIE": "Wethouder Romboutsstraat 35 hoek Hyacintenplein",
+        "systeem_id": "3B10423D72251F65E434CBB03CF99E75",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77133649335063,
+          51.5705099736849
+        ]
+      },
+      "properties": {
+        "OBJECTID": 258,
+        "LOCATIE": "Brahmslaan 14 op gazon voor huize Ruitersbos",
+        "systeem_id": "5D1D594A8431AC5E440A56D53C5B6235",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79628623009183,
+          51.5706594715283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 259,
+        "LOCATIE": "Overakkerstraat hoek Vrederustlaan",
+        "systeem_id": "A5E569CFD5454C5D724D577A3ED59002",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82543212892646,
+          51.6111417094456
+        ]
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "LOCATIE": "Laanzichtweg 25 hoek Heidepad",
+        "systeem_id": "C4F5D9A89EB1B964497CA90BE00E9F1E",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7958488478746,
+          51.5636352102733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "LOCATIE": "Valentijnlaan 24-26 in bocht op gazon",
+        "systeem_id": "77D1DC0D6A700AD886EEC5508EBB76C4",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8314513844603,
+          51.560215235925
+        ]
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "LOCATIE": "Daalakker 21-27 op gazon",
+        "systeem_id": "1023F0A6D27E4DA79FC7068E2F09F35C",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81577335087384,
+          51.5919430225862
+        ]
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "LOCATIE": "Gastakker 76 op gazon",
+        "systeem_id": "A3FC3EE961D7A5EA09B3E7781E99FF92",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81816617201849,
+          51.5927243592801
+        ]
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "LOCATIE": "Heusdenhoutseweg 149",
+        "systeem_id": "4F1C07E7F3E6AABB86C0E688FD2A53CB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77458373721791,
+          51.5701961545655
+        ]
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "LOCATIE": "Okeghemlaan hoek Lassuslaan 2 op gazon",
+        "systeem_id": "206AAD46A428EAB774EB23C625DB3AAD",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78917653711372,
+          51.5944928550099
+        ]
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "LOCATIE": "Ceresstraat tegenover 24 op de kop van groenvak",
+        "systeem_id": "DE17EAE2612949F899464A4E805886E0",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74729299727158,
+          51.5781257820504
+        ]
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "LOCATIE": "Joshof 10 op gazon",
+        "systeem_id": "C0D7B02C322038F7147C61229EDED7CB",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80797129375938,
+          51.589592463362
+        ]
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "LOCATIE": "Heusdenhoutsestraat tegenover 18A naast voetpad op gazon bij LM 9\n-24-11-'25 korf vernield, opgeruimd",
+        "systeem_id": "07E7AD127370C83ADF7CEF156B65BC3A",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79679634367701,
+          51.5996992014535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "LOCATIE": "Baliëndijk 57 op gazon",
+        "systeem_id": "163BA1DB213B891A6DCAAF519CC33017",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74677891647121,
+          51.5770717444184
+        ]
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "LOCATIE": "Laan van Mertersem 31 tegen LM óf beplanting",
+        "systeem_id": "D4A9ACBF6608DCACBAC047459135B11B",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81636898533949,
+          51.5669305132105
+        ]
+      },
+      "properties": {
+        "OBJECTID": 271,
+        "LOCATIE": "Nieuw Wolfslaarlaan 20",
+        "systeem_id": "A3E4FE9247832E185BD3F7B94E7BBAED",
+        "source_layer": "Bladkorven"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81396296691957,
+          51.582696719006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "LOCATIE": "Heerbaan 161 naast oprit",
+        "systeem_id": "A3E9BDA09F72903D4D493B707036892D",
+        "source_layer": "Bladkorven"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1931 @@
+{
+  "type": "FeatureCollection",
+  "name": "Watertappunten",
+  "source": "https://data.breda.nl/datasets/cf3959edf8fc4c02808e2dd40fe4ab35",
+  "source_service": "https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Watertappunten/FeatureServer",
+  "license": "CC0",
+  "retrieved_at": "2026-11-09T08:46:49Z",
+  "coordinate_reference_system": "EPSG:4326",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78490031778979,
+          51.5877163974478
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0001",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "2,89",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-2 Nassausingel",
+        "systeem_id": "58FE26CF3C8DF5EF26629654B9C4DAD4",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79985094214798,
+          51.5711683044443
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0039",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,43",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "0-1 Allerheiligenweg",
+        "systeem_id": "26D1D8AD65EF69A2F48C792B3DB066DB",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7870809512968,
+          51.5679492827058
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0012",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": null,
+        "MAAIVELDHOOGTE": "4,28",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "260F528EAF2AB322C3393481E128723B",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72876527403304,
+          51.613459371793
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0050",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,55",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "7-8 Tinstraat",
+        "systeem_id": "CA0359971D5C46C1D1D5C89552A691DE",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7326010066222,
+          51.5532078708942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0025",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "6,36",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "14-1 Rijsbergseweg",
+        "systeem_id": "7AA8D6DEAE43ECFBC67AFD1EE0C1E6CB",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83268752633339,
+          51.6027835361957
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0021",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "5,78",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "B55AAC4E46BA067A4ED84B1C9C6D802E",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78239845925813,
+          51.5619966657317
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0019",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,96",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "261AD0226B734C9339C51FF43DEAF763",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80787637485047,
+          51.5897362018767
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0045",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,32",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "55E9BC2AC94EA04D35FDD20EE64F084E",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79758369215637,
+          51.5481814773769
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0008",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Beton",
+        "MAAIVELDHOOGTE": "4,85",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "8-1 Dorpstraat",
+        "systeem_id": "F356D6006EFEC191605A022D83649997",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74908244867036,
+          51.5880505778637
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0034",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,97",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "371BB0C23477C3D834DDE37CCB1620D6",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79037817609834,
+          51.5676400475543
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0006",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Beton",
+        "MAAIVELDHOOGTE": "4,31",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "28E7BE9D1C9A9454AF9DBE8ACAA5619A",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78553707629021,
+          51.5793471535346
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0051",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,11",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2020-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "D487CE437D17A157BF40786815DF966F",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78817730982883,
+          51.582741574644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0029",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,39",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "C9D9683ABFC3454F5C6057C181128C74",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77621661394377,
+          51.5901953163226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0042",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,20",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "6986D22138F4081152EECCFDCCBB063D",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.736815719044,
+          51.6257198084294
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0008",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,36",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2015-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "7-5 Overkroetenlaan",
+        "systeem_id": "D2B2BD116F416BE2528A87801C6914A1",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77559594759497,
+          51.5826038183915
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0040",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,37",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-1 Markendaalseweg",
+        "systeem_id": "0A4AF6C6D2AC01566C86AF9496186CEE",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79708119671097,
+          51.6002985066531
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0048",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,56",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "6F963B30887BEA7AFC7D366FE825F038",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75012360824469,
+          51.5223987178344
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0033",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "7,53",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-11 Diunt",
+        "systeem_id": "58AD0162968A7B44A15FF9108E99AE2B",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73633544133264,
+          51.5738375661598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0038",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "4,16",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "8D5EDDE8E081B631AC05D4272A36B5E4",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75445389259347,
+          51.5885629125708
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0049",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": null,
+        "OORSPRONG_MAAIVELD": null,
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "94002730058882E52C5181F42973E742",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79804662106069,
+          51.548760265302
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0020",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "5,07",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "8-1 Dorpstraat",
+        "systeem_id": "BC3567AF72D56FCEC532258C3CA8AA56",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75232983829797,
+          51.5726510720729
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0003",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,69",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2013-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "2-2 Verlaatbrug Zuid West",
+        "systeem_id": "AC81EBCDBF402E6F6729D64909FE0764",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82594067949243,
+          51.6097615008457
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0014",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "4,99",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "11-4 Haenenveld",
+        "systeem_id": "99BEC256D6FCD4CA30FA2D0270E1B38B",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79237247584329,
+          51.6136291665728
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0007",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,00",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2014-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "1DC7612D145675B67E9762EF8F9AF962",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72159085016027,
+          51.5990336096072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0036",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,15",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "10-3 Peperbos (h.w.a.)",
+        "systeem_id": "DF1830A12F16CA1473DC3B36EE766125",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77934129168439,
+          51.5871110939221
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0031",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": null,
+        "OORSPRONG_MAAIVELD": null,
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-1 Markendaalseweg",
+        "systeem_id": "D5B07CABE791694BB665960403363905",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7882547278367,
+          51.5678839309007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0011",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Beton",
+        "MAAIVELDHOOGTE": "4,24",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "3ED5573EFFA8D68E1FCE6861CDD17D2A",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7635434280259,
+          51.5861006261118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0028",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,58",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "D5BD2312816519D1794AD3DA25517096",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75838723989014,
+          51.5619879928837
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0004",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,81",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2013-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-2 Dr Schaepmanlaan",
+        "systeem_id": "70F648BCDC587419F12FBD23C9A72926",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78275118798551,
+          51.5663769453893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0005",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,77",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2014-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "16AD29142258F7447754D3F92A648818",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78805287547855,
+          51.5943548065081
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0013",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,74",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "B72F180E6E505124F829ADFDEC9369AA",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76463468162313,
+          51.5792434829668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0022",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,13",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "2-3 Verlaatbrug Oost",
+        "systeem_id": "FB7D5FF02D294525F1EE2DD45F5FB2B3",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80724151149442,
+          51.5922713035718
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0002",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,95",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2013-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "1C510DAC29711E881B11C7202EFE7AE0",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75535030950146,
+          51.5917327187609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0011",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,29",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2015-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "7760A1518F7950E31B933D6C29E00F91",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81164325748653,
+          51.5958250902605
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0041",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,56",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "4BF3187EA16E475CB922E5280CCCA222",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7704136975227,
+          51.5866042121421
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0046",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,05",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2019-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-1 Markendaalseweg",
+        "systeem_id": "42586604343E60B910B26D29741A0AAF",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.75837006298118,
+          51.5752406762303
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0030",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,45",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "2-1 Verlaatbrug Noord  West",
+        "systeem_id": "F75C880FCB62AF2E3CC4154690B315E8",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78655045035703,
+          51.5877093338143
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0005",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "2,80",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-2 Nassausingel",
+        "systeem_id": "9B3B868952A96C05A15AB82EEC5D0E20",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7432977418311,
+          51.5781172276656
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0007",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,50",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "5C29C6F09EF161BD3762ABF9E3692B6A",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77836840252433,
+          51.6101740269717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0010",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,25",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2015-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "80C5DD691F094D007FAA171B2AEFD940",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.82969226540134,
+          51.567302516668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0013",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": null,
+        "MAAIVELDHOOGTE": "5,48",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "9-2 Lange Bunder West",
+        "systeem_id": "400DE9252A84D491DF3A06A263C4BE26",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.70737541510627,
+          51.589177564037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0024",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "4,33",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-6 Leursebaan West",
+        "systeem_id": "9999B57018ECD0407070C3F0285F7497",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74217041334157,
+          51.6048089718872
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0026",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,02",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "6-7 Hondsdonk",
+        "systeem_id": "131486EF006A0405DE4BE7042995B155",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78024563134615,
+          51.5918988163776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0001",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,47",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2012-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-1 Markendaalseweg",
+        "systeem_id": "592228087435C147AB545646911B3518",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7920138417436,
+          51.5988764274146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0016",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,55",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "C64D3608A9271C8053A353D495BC4562",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78618179403381,
+          51.5891132862342
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0003",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "2,79",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-2 Nassausingel",
+        "systeem_id": "A99E5BB347D2343D4349B9D3FAD84577",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77319510145221,
+          51.5742410811975
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0018",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,44",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "1-1 Piet Heinlaan",
+        "systeem_id": "0329D082CF2F064EA0FCDB0017F11AC0",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79278706844701,
+          51.6060008989994
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0012",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,18",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2016-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "B018DFB60BFCA070C8526F3CF9AF6184",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77494285026407,
+          51.5990605865754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0037",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,25",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "6-8 Lunetstr/Emergemaal Noord",
+        "systeem_id": "280A083F492BC0A8434C9F50D9A5A258",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79275992863659,
+          51.5929692950844
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0047",
+        "BREEDTE_PUT": 400,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,41",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "47D98693FD451E99A52F1C68A2ACAEB5",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78732129238133,
+          51.588789697716
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0004",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "2,65",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-2 Nassausingel",
+        "systeem_id": "DCD5761B10FE76D0ABC350AA6A2FB8C5",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.77630728689289,
+          51.5901916551364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0010",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Beton",
+        "MAAIVELDHOOGTE": null,
+        "OORSPRONG_MAAIVELD": null,
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-1 Markendaalseweg",
+        "systeem_id": "E4D94D977607DD5D877EDCC5EF7F76B1",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80332559729587,
+          51.5843760362508
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0017",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,16",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "3-1 Bosche Brug",
+        "systeem_id": "59AB2F62DEE3FF96F95031AA6D7A7705",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81245143122747,
+          51.5659712184959
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0027",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,00",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "0-1 Allerheiligenweg",
+        "systeem_id": "64FDC6ED3528C7B4A1E31C95B1A0A66C",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73767499366743,
+          51.6220933790733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0035",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,39",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "7-2 Paradijslaan",
+        "systeem_id": "338CEA14BAC358BB303A2B0DF7548D22",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80181236438361,
+          51.5608746323264
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0006",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "4,10",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2013-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "0-1 Allerheiligenweg",
+        "systeem_id": "03B1B95026AC0ABD67760831A6E385A7",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73948099762638,
+          51.5769753293422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0009",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "5,19",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "64179F7ABDC5133136572B89AD9DB958",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78501549561738,
+          51.5883341608738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "32-0002",
+        "BREEDTE_PUT": null,
+        "LENGTE_PUT": null,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Staal",
+        "MAAIVELDHOOGTE": "2,87",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": null,
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "4-2 Nassausingel",
+        "systeem_id": "EC9E9B82277FE3502276334BFE6FC828",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.79494086995978,
+          51.5899674120863
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0043",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,30",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2018-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "4F041BB81F88E9921FBB8BCA2CCC775E",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81340929585988,
+          51.6075603122427
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0015",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "3,15",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "5-1 Nieuwe Kadijk",
+        "systeem_id": "E0CDDF97C40DDAD8632D859DDAB7F11B",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72638893801029,
+          51.6081487793422
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0009",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,48",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2015-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "7-10 Elleboog",
+        "systeem_id": "D02B67B0B6A47352ACAA18AFFE02A7DC",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.74906908615681,
+          51.6260784106151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0032",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "1,09",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "7-20 Rietdijk",
+        "systeem_id": "4950DF28867C465054FCFA44CCB541BE",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.76069202272676,
+          51.5812324146536
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0044",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "2,68",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2016-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "13-5 Lunetstr/Emergemaal Zuid",
+        "systeem_id": "3FAFC0CB5848FE5CCBD1F51FBEA51E1C",
+        "source_layer": "Watertappunten"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83147109685463,
+          51.5702361135558
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "IDENTIFICATIE": null,
+        "KNOOPPUNTTYPE": "Bijzondere putconstructie",
+        "TOELICHTING": "Watertappunt",
+        "KNOOPNUMMER": "52-0023",
+        "BREEDTE_PUT": 500,
+        "LENGTE_PUT": 500,
+        "HOOGTE_PUT": null,
+        "VORM": "Rechthoekig",
+        "MATERIAAL": "Metselwerk",
+        "MAAIVELDHOOGTE": "4,55",
+        "OORSPRONG_MAAIVELD": "Inmeting",
+        "AANLEGJAAR": "2017-01-01",
+        "SECTIE": "Watertappunt",
+        "BEMALINGSGEBIED": "9-2 Lange Bunder West",
+        "systeem_id": "AB77F2EB5A89758F0AF217C106FB8B5A",
+        "source_layer": "Watertappunten"
+      }
+    }
+  ]
+}

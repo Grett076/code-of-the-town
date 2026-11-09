@@ -1,0 +1,35 @@
+# Databronnen en bestanden
+
+De bestanden in `../datasets/` zijn exports van openbare bronnen, opgehaald op 9 november 2026. Elk genoemd bestand is zowel als CSV als JSON beschikbaar. Voor kaarttoepassingen is JSON GeoJSON; de CSV bewaart geometrie als GeoJSON-tekst. Zie `../datasets/manifest.json` voor machineleesbare metadata, aantallen en licentie-informatie.
+
+## Gemeente Breda
+
+| Dataset | Beschrijving | Bron | Bestanden |
+|---|---|---|---|
+| Bomen | Locaties en kenmerken van bomen, inclusief boomnummer. | [Catalogus](https://data.breda.nl/datasets/2562b6a480ca4b1e97b91c29705fbdeb) · [ArcGIS FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Bomen/FeatureServer) | [CSV](../datasets/bomen.csv) · [GeoJSON](../datasets/bomen.json) |
+| Vergunningplichtige houtopstanden | Houtopstanden met kap- en herplantcontext. | [Catalogus](https://data.breda.nl/datasets/2e27d5ee971945068f1505156d9226b1) · [MapServer](https://geo.breda.nl/server1/rest/services/Kapvergunningplicht/MapServer) | [CSV](../datasets/houtopstanden.csv) · [GeoJSON](../datasets/houtopstanden.json) |
+| Hoofdgroenstructuur | Stedelijke hoofdgroenstructuur en Groenkompas. | [Catalogus](https://data.breda.nl/datasets/1c56b0dd87e6468a9f5cf141162ca458) · [MapServer](https://geo.breda.nl/server1/rest/services/Hoofdgroenstructuur/MapServer) | [CSV](../datasets/hoofdgroenstructuur.csv) · [GeoJSON](../datasets/hoofdgroenstructuur.json) |
+| Zitbanken | Locaties van openbare zitbanken. | [Catalogus](https://data.breda.nl/datasets/b22f8e22b28047b0ae1a11b73cbd7adb) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Zitbanken/FeatureServer) | [CSV](../datasets/zitbanken.csv) · [GeoJSON](../datasets/zitbanken.json) |
+| Wijkdeals | Lokale initiatieven rond onder andere groen, beheer en een schone leefomgeving. | [Catalogus](https://data.breda.nl/datasets/4500ec41423145e889d00d0fd1455361) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Wijkdeals/FeatureServer) | [CSV](../datasets/wijkdeals.csv) · [GeoJSON](../datasets/wijkdeals.json) |
+| Hondenuitlaatplaatsen | Hondenuitlaatplaatsen en losloopterreinen. | [Catalogus](https://data.breda.nl/datasets/a50b715a128b402099df16da61da6758) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Hondenuitlaatplaatsen/FeatureServer) | [CSV](../datasets/hondenuitlaatplaatsen.csv) · [GeoJSON](../datasets/hondenuitlaatplaatsen.json) |
+| Watertappunten | Locaties van openbare drinkwatertappunten. | [Catalogus](https://data.breda.nl/datasets/cf3959edf8fc4c02808e2dd40fe4ab35) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Watertappunten/FeatureServer) | [CSV](../datasets/watertappunten.csv) · [GeoJSON](../datasets/watertappunten.json) |
+| Bladkorven | Locaties van bladkorven. | [Catalogus](https://data.breda.nl/datasets/8e6fb244dad347419e052a8c0b5e36c9) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Bladkorven/FeatureServer) | [CSV](../datasets/bladkorven.csv) · [GeoJSON](../datasets/bladkorven.json) |
+| Groene daken en gevels | NRK-laag met bouwwerkclassificaties/criteria; geen bevestigde inventaris van gerealiseerde groene daken of gevels. | [Catalogus](https://data.breda.nl/datasets/7e1ac72a650f4b7181dce9a8c8695e0f) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/NEV_NRK_Bouwwerken_/FeatureServer) | [CSV](../datasets/groene_daken_gevels.csv) · [GeoJSON](../datasets/groene_daken_gevels.json) |
+| Sportaccommodaties | Sportvelden, sportlocaties en recreatieve voorzieningen. | [Catalogus](https://data.breda.nl/datasets/7c2bf3f457d94efab9e914daaf0d5b46) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Sportaccomodaties/FeatureServer) | [CSV](../datasets/sportaccommodaties.csv) · [GeoJSON](../datasets/sportaccommodaties.json) |
+| Fietsenstallingen | Locaties van fietsenstallingen. | [Catalogus](https://data.breda.nl/datasets/efd133b6f32044b48b79ee9330de7652) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Fietsenstallingen/FeatureServer) | [CSV](../datasets/fietsenstallingen.csv) · [GeoJSON](../datasets/fietsenstallingen.json) |
+| Containerverzamelplaatsen | Locaties van containerverzamelplaatsen. | [Catalogus](https://data.breda.nl/datasets/7b03f58030824dd7b524d19148eef5c0) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Containerverzamelplaatsen/FeatureServer) | [CSV](../datasets/containerverzamelplaatsen.csv) · [GeoJSON](../datasets/containerverzamelplaatsen.json) |
+| Wijken | Geografische wijkgrenzen. | [Catalogus](https://data.breda.nl/datasets/748351cf42534b819f5807457d70b2d7) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Wijken/FeatureServer) | [CSV](../datasets/wijken.csv) · [GeoJSON](../datasets/wijken.json) |
+| Buurten | Geografische buurtgrenzen. | [Catalogus](https://data.breda.nl/datasets/41171394c7b44c1ea4fed0bbf44d6177) · [FeatureServer](https://services-eu1.arcgis.com/SgHNk1qzR4I13Wum/arcgis/rest/services/Buurten_ec254/FeatureServer) | [CSV](../datasets/buurten.csv) · [GeoJSON](../datasets/buurten.json) |
+
+## Weerhistorie
+
+| Dataset | Beschrijving | Bron | Bestanden |
+|---|---|---|---|
+| Weerhistorie Breda | 90 dagen uurlijkse ERA5-Land-reanalyse, 6 augustus t/m 3 november 2026; dit zijn modelwaarden, geen lokale sensormetingen. | [Open-Meteo Archive API](https://archive-api.open-meteo.com/v1/archive) · [Open-Meteo](https://open-meteo.com/) | [CSV](../datasets/weer_breda_90_dagen.csv) · [JSON](../datasets/weer_breda_90_dagen.json) |
+
+## Gebruik en beperkingen
+
+- De gemeentelijke kaartlagen zijn momentopnamen en hebben geen gepubliceerde 90-dagenhistorie. Ze worden niet automatisch bijgewerkt.
+- De bronnen voor `groene_daken_gevels` en `containerverzamelplaatsen` vermelden geen specifieke hergebruiklicentie. Controleer de bronvoorwaarden voordat je die bestanden verder verspreidt.
+- De fietsenstallingendataset bevat 9 records en kan onvolledig zijn.
+- Voor licenties, aantallen en ophaaldatum is `../datasets/manifest.json` leidend; aanvullende uitleg staat in [het datasetpakket](../datasets/README.md).

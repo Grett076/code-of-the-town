@@ -1,0 +1,3 @@
+# Public ArcGIS UUID identifiers, not credentials.
+datasets/zitbanken.json:square-access-token:6322
+datasets/wijkdeals.json:square-access-token:2668
